@@ -127,7 +127,7 @@ ED,"Consolidated Edison, Inc.",106.26,39159967744.0,55
 STZ,"Constellation Brands, Inc.",140.91,24268179456.0,75
 CEG,Constellation Energy Corporatio,254.83,91000307712.0,63
 COO,"The Cooper Companies, Inc.",67.34,13139003392.0,60
-CPRT,"Copart, Inc.",30.96,28663121920.0,73
+CPRT,"Copart, Inc.",30.96,29824028672.0,73
 GLW,Corning Incorporated,177.58,152832065536.0,58
 CPAY,"Corpay, Inc.",347.45,22709999616.0,60
 CTVA,"Corteva, Inc.",77.03,51519201280.0,60
@@ -144,7 +144,7 @@ DRI,"Darden Restaurants, Inc.",198.12,22691674112.0,60
 DDOG,"Datadog, Inc.",234.11,83333840896.0,60
 DVA,DaVita Inc.,192.16,12333790208.0,60
 DECK,Deckers Outdoor Corporation,108.13,15017197568.0,80
-DE,Deere & Company,583.44,157492297728.0,48
+DE,Deere & Company,583.44,157591404544.0,48
 DELL,Dell Technologies Inc.,394.39,256183238656.0,50
 DAL,"Delta Air Lines, Inc.",79.42,52178493440.0,75
 DVN,Devon Energy Corporation,44.28,51072688128.0,68
@@ -236,7 +236,7 @@ HPE,Hewlett Packard Enterprise Comp,49.2,65150812160.0,50
 HLT,Hilton Worldwide Holdings Inc.,343.1,78106157056.0,50
 HD,"Home Depot, Inc. (The)",310.78,309883928576.0,60
 HON,Honeywell International Inc.,213.97,135582760960.0,55
-HRL,Hormel Foods Corporation,23.62,12998439936.0,60
+HRL,Hormel Foods Corporation,23.62,12997713920.0,60
 HST,"Host Hotels & Resorts, Inc.",24.62,17080525824.0,63
 HWM,Howmet Aerospace Inc.,251.9,100787077120.0,65
 HPQ,HP Inc.,25.58,23393490944.0,60
@@ -292,7 +292,7 @@ LIN,Linde plc,507.9,234826186752.0,58
 LYV,"Live Nation Entertainment, Inc.",160.07,37250338816.0,48
 LMT,Lockheed Martin Corporation,523.76,120760000512.0,55
 L,Loews Corporation,107.57,22134558720.0,70
-LOW,"Lowe's Companies, Inc.",210.74,118163415040.0,55
+LOW,"Lowe's Companies, Inc.",210.74,118225141760.0,55
 LULU,lululemon athletica inc.,114.23,12971265024.0,85
 LITE,Lumentum Holdings Inc.,863.66,67192745984.0,65
 LYB,LyondellBasell Industries NV,64.5,20819617792.0,50
@@ -327,7 +327,7 @@ MOS,Mosaic Company (The),22.24,7068909568.0,60
 MSI,"Motorola Solutions, Inc.",410.34,68114628608.0,55
 MSCI,MSCI Inc.,615.46,44760924160.0,50
 NDAQ,"Nasdaq, Inc.",87.28,49360400384.0,58
-NTAP,"NetApp, Inc.",167.04,33084000256.0,65
+NTAP,"NetApp, Inc.",167.04,33084000256.0,55
 NFLX,"Netflix, Inc.",82.18,346043416576.0,65
 NEM,Newmont Corporation,99.71,106445684736.0,85
 NWSA,News Corporation,27.26,14858425344.0,60
@@ -406,7 +406,7 @@ CRM,"Salesforce, Inc.",185.66,152055545856.0,63
 SNDK,Sandisk Corporation,1559.32,230919323648.0,75
 SBAC,SBA Communications Corporation,208.02,22063228928.0,55
 SLB,SLB Limited,54.87,82033811456.0,73
-STX,Seagate Technology Holdings PLC,847.47,191741870080.0,55
+STX,Seagate Technology Holdings PLC,847.47,190027333632.0,55
 SRE,DBA Sempra,91.42,59761930240.0,50
 NOW,"ServiceNow, Inc.",112.45,115970588672.0,68
 SHW,Sherwin-Williams Company (The),305.3,75297849344.0,55
