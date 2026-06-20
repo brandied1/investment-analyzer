@@ -82,7 +82,6 @@ BXP,"BXP, Inc.",64.7,11536748544.0,40
 CHRW,"C.H. Robinson Worldwide, Inc.",185.04,21811226624.0,65
 CDNS,"Cadence Design Systems, Inc.",387.39,106848362496.0,75
 CPT,Camden Property Trust,108.99,10799883264.0,50
-CPB,The Campbell's Company,21.15,6307061760.0,68
 COF,Capital One Financial Corporati,201.53,125410664448.0,50
 CAH,"Cardinal Health, Inc.",221.77,51939831808.0,50
 CCL,Carnival Corporation Ltd.,30.87,42759258112.0,65
@@ -202,6 +201,7 @@ FITB,Fifth Third Bancorp,52.74,47798874112.0,55
 FSLR,"First Solar, Inc.",257.7,27690731520.0,73
 FE,FirstEnergy Corp.,46.45,26868127744.0,50
 FISV,"Fiserv, Inc.",47.86,25521534976.0,60
+FLEX,Flex Ltd.,147.61,54081044480.0,58
 F,Ford Motor Company,14.06,56024780800.0,40
 FTNT,"Fortinet, Inc.",144.73,106036199424.0,65
 FTV,Fortive Corporation,61.03,18605668352.0,50
@@ -301,6 +301,7 @@ MPC,Marathon Petroleum Corporation,242.91,70914326528.0,70
 MAR,Marriott International,396.2,104473436160.0,50
 MRSH,Marsh,162.41,78248247296.0,70
 MLM,"Martin Marietta Materials, Inc.",609.12,36575158272.0,50
+MRVL,"Marvell Technology, Inc.",310.58,271695364096.0,68
 MAS,Masco Corporation,74.38,15005006848.0,60
 MA,Mastercard Incorporated,489.79,432770547712.0,55
 MKC,"McCormick & Company, Incorporat",46.64,12538846208.0,75
@@ -369,7 +370,6 @@ PM,Philip Morris International Inc,178.4,278046900224.0,50
 PSX,Phillips 66,166.14,66611343360.0,63
 PNW,Pinnacle West Capital Corporati,102.32,12399870976.0,45
 PNC,"PNC Financial Services Group, I",232.04,93179060224.0,68
-POOL,Pool Corporation,198.99,7251793408.0,70
 PPG,"PPG Industries, Inc.",118.25,26357925888.0,70
 PPL,PPL Corporation,35.38,26618155008.0,55
 PFG,Principal Financial Group Inc,109.57,23668475904.0,73
