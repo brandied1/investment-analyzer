@@ -3,7 +3,7 @@ MMM,3M Company,160.6,83763707904.0,55
 AOS,A.O. Smith Corporation,58.22,8024382464.0,80
 ABT,Abbott Laboratories,88.41,153993707520.0,63
 ABBV,AbbVie Inc.,216.49,382492999680.0,50
-ACN,Accenture plc,127.98,78763393024.0,85
+ACN,Accenture plc,127.98,78316347392.0,85
 ADBE,Adobe Inc.,195.16,77576101888.0,75
 AMD,"Advanced Micro Devices, Inc.",537.37,876235849728.0,60
 AES,The AES Corporation,14.62,10426364928.0,50
@@ -51,7 +51,7 @@ T,AT&T Inc.,22.01,152932941824.0,68
 ATO,Atmos Energy Corporation,170.11,28394731520.0,55
 ADSK,"Autodesk, Inc.",193.82,40924172288.0,65
 ADP,"Automatic Data Processing, Inc.",218.41,87305961472.0,70
-AZO,"AutoZone, Inc.",3064.48,50162470912.0,55
+AZO,"AutoZone, Inc.",3064.48,50028724224.0,55
 AVB,"AvalonBay Communities, Inc.",177.32,25156755456.0,55
 AVY,Avery Dennison Corporation,158.68,12137493504.0,70
 AXON,"Axon Enterprise, Inc.",423.4,34126919680.0,50
@@ -144,7 +144,7 @@ DDOG,"Datadog, Inc.",223.0,79379120128.0,60
 DVA,DaVita Inc.,207.91,13344703488.0,60
 DECK,Deckers Outdoor Corporation,109.11,15153301504.0,80
 DE,Deere & Company,589.24,159057936384.0,48
-DELL,Dell Technologies Inc.,409.5,265400205312.0,50
+DELL,Dell Technologies Inc.,409.5,264595308544.0,50
 DAL,"Delta Air Lines, Inc.",84.18,55305785344.0,75
 DVN,Devon Energy Corporation,42.12,48581337088.0,68
 DXCM,"DexCom, Inc.",72.47,27964215296.0,75
@@ -279,7 +279,7 @@ KMI,"Kinder Morgan, Inc.",31.59,70282248192.0,63
 KKR,KKR & Co. Inc.,97.01,90456154112.0,50
 KLAC,KLA Corporation,259.56,339056787456.0,65
 KHC,The Kraft Heinz Company,22.82,27059445760.0,50
-KR,Kroger Company (The),56.61,34903502848.0,48
+KR,Kroger Company (The),56.61,34701930496.0,48
 LHX,"L3Harris Technologies, Inc.",294.82,54923476992.0,60
 LH,Labcorp Holdings Inc.,255.82,20977240064.0,63
 LRCX,Lam Research Corporation,389.04,486522159104.0,75
@@ -307,7 +307,7 @@ MA,Mastercard Incorporated,489.79,432770547712.0,55
 MKC,"McCormick & Company, Incorporat",46.64,12538846208.0,75
 MCD,McDonald's Corporation,278.61,197954027520.0,55
 MCK,McKesson Corporation,750.63,87882063872.0,55
-MDT,Medtronic plc.,79.34,101863424000.0,55
+MDT,Medtronic plc.,79.34,101558779904.0,55
 MRK,"Merck & Company, Inc.",113.87,281238929408.0,58
 META,"Meta Platforms, Inc.",577.22,1465228591104.0,80
 MET,"MetLife, Inc.",85.58,55065321472.0,63
@@ -331,8 +331,8 @@ NDAQ,"Nasdaq, Inc.",82.24,46510075904.0,63
 NTAP,"NetApp, Inc.",159.71,31290372096.0,55
 NFLX,"Netflix, Inc.",77.38,325831589888.0,70
 NEM,Newmont Corporation,103.79,110801305600.0,85
-NWSA,News Corporation,25.28,13761245184.0,60
-NWS,News Corporation,28.75,15650149376.0,60
+NWSA,News Corporation,25.28,13755429888.0,60
+NWS,News Corporation,28.75,15643536384.0,60
 NEE,"NextEra Energy, Inc.",86.75,180926267392.0,63
 NKE,"Nike, Inc.",45.2,66936094720.0,58
 NI,NiSource Inc,47.26,22658297856.0,55
@@ -374,7 +374,7 @@ PPG,"PPG Industries, Inc.",118.25,26357925888.0,70
 PPL,PPL Corporation,35.38,26618155008.0,55
 PFG,Principal Financial Group Inc,109.57,23668475904.0,73
 PG,Procter & Gamble Company (The),150.38,350174740480.0,70
-PGR,Progressive Corporation (The),204.87,119541645312.0,85
+PGR,Progressive Corporation (The),204.87,119275315200.0,85
 PLD,"Prologis, Inc.",140.54,131692150784.0,50
 PRU,"Prudential Financial, Inc.",106.53,37000544256.0,68
 PEG,Public Service Enterprise Group,79.89,39810895872.0,63
@@ -412,7 +412,7 @@ NOW,"ServiceNow, Inc.",95.04,98015518720.0,68
 SHW,Sherwin-Williams Company (The),320.79,79118237696.0,55
 SPG,"Simon Property Group, Inc.",211.33,80301096960.0,65
 SWKS,"Skyworks Solutions, Inc.",72.45,10896912384.0,60
-SJM,The J.M. Smucker Company,110.86,11823032320.0,50
+SJM,The J.M. Smucker Company,110.86,11824564224.0,50
 SW,Smurfit WestRock plc,44.2,23181312000.0,50
 SNA,Snap-On Incorporated,387.25,20060291072.0,73
 SOLV,Solventum Corporation,75.43,13062568960.0,75
@@ -424,7 +424,7 @@ STT,State Street Corporation,168.31,46582661120.0,63
 STLD,"Steel Dynamics, Inc.",249.91,36040216576.0,68
 STE,STERIS plc (Ireland),202.61,19745900544.0,68
 SYK,Stryker Corporation,307.8,117998436352.0,58
-SMCI,"Super Micro Computer, Inc.",30.66,18439491584.0,63
+SMCI,"Super Micro Computer, Inc.",30.66,19833126912.0,63
 SYF,Synchrony Financial,75.26,25315225600.0,75
 SNPS,"Synopsys, Inc.",455.51,87220748288.0,60
 SYY,Sysco Corporation,78.7,37632966656.0,60
