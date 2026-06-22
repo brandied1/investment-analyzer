@@ -123,10 +123,10 @@ FIX,"Comfort Systems USA, Inc.",1967.41,69221294080.0,75
 CAG,"ConAgra Brands, Inc.",13.2,6315370496.0,50
 COP,ConocoPhillips,107.74,131258990592.0,73
 ED,"Consolidated Edison, Inc.",106.36,39196819456.0,55
-STZ,"Constellation Brands, Inc.",141.18,24215013376.0,75
+STZ,"Constellation Brands, Inc.",141.18,24314677248.0,75
 CEG,Constellation Energy Corporatio,274.06,97867374592.0,63
 COO,"The Cooper Companies, Inc.",65.91,12854469632.0,60
-CPRT,"Copart, Inc.",30.23,27987279872.0,73
+CPRT,"Copart, Inc.",30.23,29120813056.0,73
 GLW,Corning Incorporated,194.92,167755530240.0,58
 CPAY,"Corpay, Inc.",345.28,22568163328.0,60
 CTVA,"Corteva, Inc.",78.59,52562558976.0,60
@@ -143,7 +143,7 @@ DRI,"Darden Restaurants, Inc.",213.45,24447496192.0,60
 DDOG,"Datadog, Inc.",223.0,79379120128.0,60
 DVA,DaVita Inc.,207.91,13344703488.0,60
 DECK,Deckers Outdoor Corporation,109.11,15153301504.0,80
-DE,Deere & Company,589.24,159057936384.0,48
+DE,Deere & Company,589.24,159158026240.0,48
 DELL,Dell Technologies Inc.,409.5,264595308544.0,50
 DAL,"Delta Air Lines, Inc.",84.18,55305785344.0,75
 DVN,Devon Energy Corporation,42.12,48581337088.0,68
@@ -236,7 +236,7 @@ HPE,Hewlett Packard Enterprise Comp,47.41,62780489728.0,50
 HLT,Hilton Worldwide Holdings Inc.,348.84,79412854784.0,50
 HD,"Home Depot, Inc. (The)",334.28,333316161536.0,60
 HON,Honeywell International Inc.,229.01,145112891392.0,55
-HRL,Hormel Foods Corporation,24.16,13295608832.0,60
+HRL,Hormel Foods Corporation,24.16,13294866432.0,60
 HST,"Host Hotels & Resorts, Inc.",25.01,17351094272.0,63
 HWM,Howmet Aerospace Inc.,277.66,111093850112.0,65
 HPQ,HP Inc.,23.5,21491283968.0,60
@@ -292,7 +292,7 @@ LIN,Linde plc,512.15,236791185408.0,58
 LYV,"Live Nation Entertainment, Inc.",171.24,39849742336.0,48
 LMT,Lockheed Martin Corporation,510.95,117806481408.0,60
 L,Loews Corporation,107.28,22074886144.0,70
-LOW,"Lowe's Companies, Inc.",222.2,124589113344.0,55
+LOW,"Lowe's Companies, Inc.",222.2,124654198784.0,55
 LULU,lululemon athletica inc.,111.77,12691920896.0,85
 LITE,Lumentum Holdings Inc.,850.0,66130001920.0,65
 LYB,LyondellBasell Industries NV,60.07,19389681664.0,50
@@ -301,7 +301,7 @@ MPC,Marathon Petroleum Corporation,242.91,70914326528.0,70
 MAR,Marriott International,396.2,104473436160.0,50
 MRSH,Marsh,162.41,78248247296.0,70
 MLM,"Martin Marietta Materials, Inc.",609.12,36575158272.0,50
-MRVL,"Marvell Technology, Inc.",310.58,271695364096.0,68
+MRVL,"Marvell Technology, Inc.",310.58,271929278464.0,68
 MAS,Masco Corporation,74.38,15005006848.0,60
 MA,Mastercard Incorporated,489.79,432770547712.0,55
 MKC,"McCormick & Company, Incorporat",46.64,12538846208.0,75
@@ -406,7 +406,7 @@ CRM,"Salesforce, Inc.",151.78,124307816448.0,63
 SNDK,Sandisk Corporation,2184.75,323539107840.0,75
 SBAC,SBA Communications Corporation,186.87,19819995136.0,55
 SLB,SLB Limited,48.09,71897325568.0,73
-STX,Seagate Technology Holdings PLC,1070.23,242141790208.0,55
+STX,Seagate Technology Holdings PLC,1070.23,239976595456.0,55
 SRE,DBA Sempra,90.69,59284725760.0,50
 NOW,"ServiceNow, Inc.",95.04,98015518720.0,68
 SHW,Sherwin-Williams Company (The),320.79,79118237696.0,55
