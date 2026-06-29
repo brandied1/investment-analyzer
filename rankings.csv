@@ -123,10 +123,10 @@ FIX,"Comfort Systems USA, Inc.",1854.23,65239166976.0,75
 CAG,"ConAgra Brands, Inc.",14.08,6736395264.0,50
 COP,ConocoPhillips,105.96,129090428928.0,73
 ED,"Consolidated Edison, Inc.",112.06,41297436672.0,55
-STZ,"Constellation Brands, Inc.",146.3,25093191680.0,70
+STZ,"Constellation Brands, Inc.",146.3,25196470272.0,70
 CEG,Constellation Energy Corporatio,264.02,94282072064.0,63
 COO,"The Cooper Companies, Inc.",71.02,13851074560.0,60
-CPRT,"Copart, Inc.",30.55,28283539456.0,73
+CPRT,"Copart, Inc.",30.55,29429071872.0,73
 GLW,Corning Incorporated,221.05,190243995648.0,58
 CPAY,"Corpay, Inc.",332.48,21731532800.0,60
 CTVA,"Corteva, Inc.",82.62,55257907200.0,60
@@ -143,7 +143,7 @@ DRI,"Darden Restaurants, Inc.",213.72,24478420992.0,60
 DDOG,"Datadog, Inc.",239.77,85348573184.0,60
 DVA,DaVita Inc.,217.04,13930712064.0,60
 DECK,Deckers Outdoor Corporation,104.56,14521393152.0,85
-DE,Deere & Company,613.24,165536432128.0,48
+DE,Deere & Company,613.24,165640601600.0,48
 DELL,Dell Technologies Inc.,399.49,258127413248.0,50
 DAL,"Delta Air Lines, Inc.",92.57,60817969152.0,75
 DVN,Devon Energy Corporation,42.21,48685146112.0,68
@@ -163,7 +163,7 @@ DUK,Duke Energy Corporation (Holdin,128.4,100100153344.0,55
 DD,"DuPont de Nemours, Inc.",137.22,18527363072.0,60
 ETN,"Eaton Corporation, PLC",402.68,156360638464.0,65
 EBAY,eBay Inc.,107.87,47894282240.0,70
-ECHO,ECHO,97.3,28198854656.0,40
+ECHO,EchoStar Corporation,97.3,28198854656.0,40
 ECL,Ecolab Inc.,283.65,79829745664.0,65
 EIX,Edison International,75.67,29117358080.0,58
 EW,Edwards Lifesciences Corporatio,90.78,52271124480.0,68
@@ -236,7 +236,7 @@ HPE,Hewlett Packard Enterprise Comp,43.71,57880936448.0,50
 HLT,Hilton Worldwide Holdings Inc.,332.86,75775033344.0,50
 HD,"Home Depot, Inc. (The)",348.86,347854110720.0,60
 HON,Honeywell International Inc.,232.21,73570295808.0,60
-HRL,Hormel Foods Corporation,26.51,14588849152.0,60
+HRL,Hormel Foods Corporation,26.51,14588035072.0,60
 HST,"Host Hotels & Resorts, Inc.",25.06,17385783296.0,63
 HWM,Howmet Aerospace Inc.,268.87,107576901632.0,65
 HPQ,HP Inc.,22.88,20924278784.0,60
@@ -257,7 +257,7 @@ ICE,Intercontinental Exchange Inc.,123.86,70044377088.0,63
 IFF,International Flavors & Fragran,76.35,19492419584.0,65
 IP,International Paper Company,38.76,20524077056.0,50
 INTU,Intuit Inc.,267.72,73231327232.0,80
-ISRG,"Intuitive Surgical, Inc.",404.7,143329705984.0,58
+ISRG,"Intuitive Surgical, Inc.",404.266,143175991296.0,58
 IVZ,Invesco Ltd,26.16,11596640256.0,60
 INVH,Invitation Homes Inc.,30.46,18094518272.0,50
 IQV,"IQVIA Holdings, Inc.",191.14,31901265920.0,60
@@ -292,7 +292,7 @@ LIN,Linde plc,519.62,240244899840.0,58
 LYV,"Live Nation Entertainment, Inc.",179.46,41762639872.0,48
 LMT,Lockheed Martin Corporation,507.4,116987977728.0,60
 L,Loews Corporation,113.25,23303325696.0,70
-LOW,"Lowe's Companies, Inc.",222.48,124746104832.0,55
+LOW,"Lowe's Companies, Inc.",222.48,124811280384.0,55
 LULU,lululemon athletica inc.,117.57,13350534144.0,85
 LITE,Lumentum Holdings Inc.,816.98,63561043968.0,65
 LYB,LyondellBasell Industries NV,55.73,17988794368.0,50
@@ -301,7 +301,7 @@ MPC,Marathon Petroleum Corporation,254.06,74169425920.0,70
 MAR,Marriott International,377.31,99492356096.0,50
 MRSH,Marsh,169.03,81437720576.0,70
 MLM,"Martin Marietta Materials, Inc.",616.06,36991877120.0,50
-MRVL,"Marvell Technology, Inc.",266.77,233370386432.0,68
+MRVL,"Marvell Technology, Inc.",266.77,233571303424.0,68
 MAS,Masco Corporation,79.97,16132703232.0,60
 MA,Mastercard Incorporated,499.02,440926011392.0,55
 MKC,"McCormick & Company, Incorporat",51.05,13724871680.0,75
@@ -406,7 +406,7 @@ CRM,"Salesforce, Inc.",158.37,129705025536.0,63
 SNDK,Sandisk Corporation,2090.71,309612740608.0,75
 SBAC,SBA Communications Corporation,183.76,19490140160.0,55
 SLB,SLB Limited,47.0,70267707392.0,73
-STX,Seagate Technology Holdings PLC,899.9,203604279296.0,55
+STX,Seagate Technology Holdings PLC,899.9,201783672832.0,55
 SRE,DBA Sempra,94.27,61624991744.0,50
 NOW,"ServiceNow, Inc.",98.34,101418827776.0,68
 SHW,Sherwin-Williams Company (The),344.07,84859920384.0,55
