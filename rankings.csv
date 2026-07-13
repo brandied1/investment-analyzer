@@ -125,7 +125,7 @@ ED,"Consolidated Edison, Inc.",111.12,40951021568.0,55
 STZ,"Constellation Brands, Inc.",134.06,22898030592.0,75
 CEG,Constellation Energy Corporatio,251.38,89768304640.0,63
 COO,"The Cooper Companies, Inc.",70.7,13788664832.0,60
-CPRT,"Copart, Inc.",27.515,25473701888.0,73
+CPRT,"Copart, Inc.",27.515,26505431040.0,73
 GLW,Corning Incorporated,190.89,164287152128.0,58
 CPAY,"Corpay, Inc.",353.64,23114590208.0,60
 CTVA,"Corteva, Inc.",85.68,57304494080.0,60
@@ -142,7 +142,7 @@ DRI,"Darden Restaurants, Inc.",204.25,23393773568.0,60
 DDOG,"Datadog, Inc.",257.54,91673993216.0,60
 DVA,DaVita Inc.,232.8,14942268416.0,60
 DECK,Deckers Outdoor Corporation,105.99,14719992832.0,80
-DE,Deere & Company,586.86,158415486976.0,48
+DE,Deere & Company,586.86,158515167232.0,48
 DELL,Dell Technologies Inc.,434.97,281052545024.0,50
 DAL,"Delta Air Lines, Inc.",87.39,57414737920.0,75
 DVN,Devon Energy Corporation,42.23,48708214784.0,68
@@ -236,7 +236,7 @@ HLT,Hilton Worldwide Holdings Inc.,335.48,76371476480.0,50
 HD,"Home Depot, Inc. (The)",343.3,342310125568.0,60
 HONA,Honeywell Aerospace Inc.,220.75,69964447744.0,50
 HON,Honeywell International Inc.,226.42,71735869440.0,60
-HRL,Hormel Foods Corporation,24.73,13609288704.0,60
+HRL,Hormel Foods Corporation,24.73,13608528896.0,60
 HST,"Host Hotels & Resorts, Inc.",23.18,16081502208.0,63
 HWM,Howmet Aerospace Inc.,270.85,108369117184.0,65
 HPQ,HP Inc.,24.22,22149738496.0,60
@@ -292,7 +292,7 @@ LIN,Linde plc,529.79,244946960384.0,58
 LYV,"Live Nation Entertainment, Inc.",179.79,41839431680.0,48
 LMT,Lockheed Martin Corporation,523.22,120635490304.0,55
 L,Loews Corporation,114.99,23661363200.0,70
-LOW,"Lowe's Companies, Inc.",211.63,118662438912.0,55
+LOW,"Lowe's Companies, Inc.",211.63,118724435968.0,55
 LULU,lululemon athletica inc.,119.26,13542440960.0,85
 LITE,Lumentum Holdings Inc.,802.01,62396379136.0,65
 LYB,LyondellBasell Industries NV,56.35,18188920832.0,50
@@ -406,7 +406,7 @@ CRM,"Salesforce, Inc.",163.32,133759082496.0,63
 SNDK,Sandisk Corporation,1915.92,283728150528.0,75
 SBAC,SBA Communications Corporation,190.03,20155154432.0,55
 SLB,SLB Limited,47.76,71403954176.0,73
-STX,Seagate Technology Holdings PLC,910.34,205966360576.0,55
+STX,Seagate Technology Holdings PLC,910.34,204124618752.0,55
 SRE,DBA Sempra,94.2,61579235328.0,50
 NOW,"ServiceNow, Inc.",107.71,111082184704.0,68
 SHW,Sherwin-Williams Company (The),333.99,82373828608.0,55
@@ -421,6 +421,7 @@ LUV,Southwest Airlines Company,48.43,23671312384.0,58
 SWK,"Stanley Black & Decker, Inc.",88.22,13714290688.0,50
 SBUX,Starbucks Corporation,106.01,120819597312.0,50
 STT,State Street Corporation,180.22,49878958080.0,63
+STLD,"Steel Dynamics, Inc.",228.42,32941084672.0,73
 STE,STERIS plc (Ireland),216.0,21050859520.0,68
 SYK,Stryker Corporation,329.78,126424711168.0,58
 SMCI,"Super Micro Computer, Inc.",28.31,18312974336.0,68
