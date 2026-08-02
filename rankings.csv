@@ -89,7 +89,7 @@ CARR,Carrier Global Corporation,61.81,50951532544.0,50
 CVNA,Carvana Co.,62.36,92796190720.0,65
 CASY,"Caseys General Stores, Inc.",871.0,32231278592.0,58
 CAT,"Caterpillar, Inc.",814.81,,55
-CBOE,"Cboe Global Markets, Inc.",310.23,32466745344.0,75
+CBOE,"Cboe Global Markets, Inc.",310.23,32466745344.0,80
 CBRE,CBRE Group Inc,146.81,42512547840.0,58
 CDW,CDW Corporation,147.81,,60
 COR,"Cencora, Inc.",311.34,60574638080.0,60
@@ -116,7 +116,7 @@ CMS,CMS Energy Corporation,71.99,22574417920.0,55
 KO,Coca-Cola Company (The),87.59,376860246016.0,65
 CTSH,Cognizant Technology Solutions ,55.35,24932087808.0,78
 COHR,Coherent Corp.,262.89,51431624704.0,60
-COIN,"Coinbase Global, Inc.",146.26,38588788736.0,60
+COIN,"Coinbase Global, Inc.",146.26,38588788736.0,50
 CL,Colgate-Palmolive Company,91.3,,55
 CMCSA,Comcast Corporation,23.96,85025333248.0,68
 FIX,"Comfort Systems USA, Inc.",1729.69,60875276288.0,75
@@ -160,7 +160,7 @@ DHI,"D.R. Horton, Inc.",143.06,40014065664.0,78
 DTE,DTE Energy Company,141.87,29521453056.0,53
 DUK,Duke Energy Corporation (Holdin,125.43,97784758272.0,55
 DD,"DuPont de Nemours, Inc.",137.0,,60
-ETN,"Eaton Corporation, PLC",415.2,,65
+ETN,"Eaton Corporation, PLC",415.2,,58
 EBAY,eBay Inc.,114.01,50620440576.0,65
 ECHO,EchoStar Corporation,84.09,24370415616.0,40
 ECL,Ecolab Inc.,277.63,78135492608.0,65
@@ -181,7 +181,7 @@ ESS,"Essex Property Trust, Inc.",284.14,19584690176.0,50
 EL,"Estee Lauder Companies, Inc. (T",83.9,,40
 EG,"Everest Group, Ltd.",374.15,14479604736.0,78
 EVRG,"Evergy, Inc.",83.01,19134885888.0,55
-ES,Eversource Energy (D/B/A),71.59,26923567104.0,63
+ES,Eversource Energy (D/B/A),71.59,26923567104.0,55
 EXC,Exelon Corporation,45.82,47206236160.0,55
 EXE,Expand Energy Corporation,94.03,21768300544.0,78
 EXPE,"Expedia Group, Inc.",294.74,35375304704.0,55
@@ -209,7 +209,7 @@ FOX,Fox Corporation,51.94,21809639424.0,68
 BEN,"Franklin Resources, Inc.",33.86,17594914816.0,65
 FCX,"Freeport-McMoRan, Inc.",62.63,,68
 GRMN,Garmin Ltd.,293.78,56656220160.0,75
-IT,"Gartner, Inc.",151.02,10111074304.0,60
+IT,"Gartner, Inc.",151.02,10111074304.0,65
 GE,GE Aerospace,360.07,373595144192.0,65
 GEHC,GE HealthCare Technologies Inc.,68.02,30723696640.0,63
 GEV,GE Vernova Inc.,990.29,263747485696.0,75
@@ -463,7 +463,7 @@ UPS,"United Parcel Service, Inc.",104.22,,70
 URI,"United Rentals, Inc.",1079.26,67175829504.0,65
 UNH,UnitedHealth Group Incorporated,414.4,376335040512.0,58
 UHS,"Universal Health Services, Inc.",168.44,10196743168.0,75
-VLO,Valero Energy Corporation,312.9,90092503040.0,70
+VLO,Valero Energy Corporation,312.9,90092503040.0,85
 VEEV,Veeva Systems Inc.,203.78,33102694400.0,68
 VTR,"Ventas, Inc.",93.51,47965614080.0,50
 VLTO,Veralto Corp,94.17,22958018560.0,70
@@ -477,7 +477,7 @@ VICI,VICI Properties Inc.,26.35,29013393408.0,60
 V,Visa Inc.,366.13,683582029824.0,65
 VST,Vistra Corp.,148.19,49967071232.0,60
 VMC,Vulcan Materials Company (Holdi,268.57,34800963584.0,58
-WRB,W.R. Berkley Corporation,72.54,26916546560.0,65
+WRB,W.R. Berkley Corporation,72.54,26916546560.0,70
 GWW,"W.W. Grainger, Inc.",1382.22,,65
 WAB,Westinghouse Air Brake Technolo,290.86,49129406464.0,58
 WMT,Walmart Inc.,111.2,884938375168.0,65
