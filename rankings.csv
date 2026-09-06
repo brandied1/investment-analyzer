@@ -60,7 +60,7 @@ BAC,Bank of America Corporation,62.68,438305488896.0,68
 BAX,Baxter International Inc.,25.83,13354006528.0,50
 BDX,"Becton, Dickinson and Company",184.74,50320740352.0,50
 BRK.B,BRK.B,,,50
-BBY,"Best Buy Co., Inc.",90.27,19025946624.0,75
+BBY,"Best Buy Co., Inc.",90.27,19025946624.0,70
 TECH,Bio-Techne Corp,72.43,11358345216.0,60
 BIIB,Biogen Inc.,220.83,32628516864.0,60
 BLK,"BlackRock, Inc.",1122.29,182345416704.0,68
@@ -91,7 +91,7 @@ CAT,"Caterpillar, Inc.",813.94,374147776512.0,55
 CBOE,"Cboe Global Markets, Inc.",298.38,31160127488.0,80
 CBRE,CBRE Group Inc,147.85,42813710336.0,58
 CDW,CDW Corporation,152.38,19050156032.0,60
-COR,"Cencora, Inc.",330.95,63154253824.0,55
+COR,"Cencora, Inc.",330.95,63154253824.0,60
 CNC,Centene Corporation,67.04,33117425664.0,50
 CNP,"CenterPoint Energy, Inc (Holdin",39.67,26131431424.0,45
 CF,"CF Industries Holdings, Inc.",133.35,20180940800.0,85
@@ -305,7 +305,7 @@ MA,Mastercard Incorporated,579.21,507393736704.0,55
 MKC,"McCormick & Company, Incorporat",52.08,14001788928.0,75
 MCD,McDonald's Corporation,255.69,180936867840.0,55
 MCK,McKesson Corporation,907.99,105862881280.0,55
-MDT,Medtronic plc.,94.17,120456413184.0,55
+MDT,Medtronic plc.,94.17,120456413184.0,63
 MRK,"Merck & Company, Inc.",150.33,370889916416.0,50
 META,"Meta Platforms, Inc.",616.77,1571225468928.0,80
 MET,"MetLife, Inc.",97.62,62035259392.0,63
@@ -358,7 +358,7 @@ PLTR,Palantir Technologies Inc.,174.33,418925182976.0,75
 PANW,"Palo Alto Networks, Inc.",333.26,271606906880.0,60
 PSKY,Paramount Skydance Corporation,10.86,12184330240.0,50
 PH,Parker-Hannifin Corporation,962.59,121332039680.0,65
-PAYX,"Paychex, Inc.",121.71,43326382080.0,50
+PAYX,"Paychex, Inc.",121.71,43326382080.0,55
 PYPL,"PayPal Holdings, Inc.",54.96,47016128512.0,75
 PNR,Pentair plc.,60.21,9609516032.0,73
 PEP,"Pepsico, Inc.",137.63,188002582528.0,60
@@ -475,7 +475,7 @@ VTRS,Viatris Inc.,16.88,19388213248.0,50
 VICI,VICI Properties Inc.,25.42,27989389312.0,60
 V,Visa Inc.,375.07,700273459200.0,65
 VST,Vistra Corp.,149.3,50110337024.0,55
-VMRK,Vivmark Residential,65.35,50566463488.0,55
+VMRK,Vivmark Residential,65.35,50566463488.0,50
 VMC,Vulcan Materials Company (Holdi,262.63,34031263744.0,58
 WRB,W.R. Berkley Corporation,69.14,25666670592.0,85
 GWW,"W.W. Grainger, Inc.",1324.49,62384730112.0,65
