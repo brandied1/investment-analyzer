@@ -3,7 +3,7 @@ MMM,3M Company,165.89,85553192960.0,55
 AOS,A.O. Smith Corporation,56.95,7739993600.0,80
 ABT,Abbott Laboratories,102.61,177554636800.0,58
 ABBV,AbbVie Inc.,263.96,466448285696.0,50
-ACN,Accenture plc,181.29,110938972160.0,80
+ACN,Accenture plc,181.29,110938972160.0,85
 ADBE,Adobe Inc.,248.92,98945695744.0,75
 AMD,"Advanced Micro Devices, Inc.",559.82,913892179968.0,68
 AES,The AES Corporation,14.83,10580295680.0,50
@@ -76,7 +76,7 @@ BR,"Broadridge Financial Solutions,",163.13,18600376320.0,70
 BRO,"Brown & Brown, Inc.",65.02,21756364800.0,63
 BF.B,BF.B,,,50
 BLDR,"Builders FirstSource, Inc.",58.12,6253506048.0,50
-BG,Bunge Limited,115.58,22205128704.0,50
+BG,Bunge Limited,115.58,22205128704.0,55
 BXP,"BXP, Inc.",63.17,11426026496.0,40
 CHRW,"C.H. Robinson Worldwide, Inc.",152.99,17877073920.0,65
 CDNS,"Cadence Design Systems, Inc.",282.9,77908672512.0,75
@@ -122,7 +122,7 @@ FIX,"Comfort Systems USA, Inc.",1651.37,58118856704.0,75
 COP,ConocoPhillips,131.83,158372315136.0,73
 ED,"Consolidated Edison, Inc.",105.43,38991032320.0,55
 STZ,"Constellation Brands, Inc.",118.97,20320593920.0,75
-CEG,Constellation Energy Corporatio,254.71,90245636096.0,58
+CEG,Constellation Energy Corporatio,254.71,90245636096.0,63
 COO,"The Cooper Companies, Inc.",55.29,10513686528.0,65
 CPRT,"Copart, Inc.",29.28,27107760128.0,73
 GLW,Corning Incorporated,150.13,129320239104.0,58
@@ -283,7 +283,7 @@ LH,Labcorp Holdings Inc.,320.71,26009579520.0,58
 LRCX,Lam Research Corporation,288.11,360518057984.0,75
 LVS,Las Vegas Sands Corp.,39.98,25895092224.0,60
 LDOS,"Leidos Holdings, Inc.",127.69,16024099840.0,75
-LEN,Lennar Corporation,76.43,18411616256.0,65
+LEN,Lennar Corporation,76.43,18411616256.0,70
 LII,"Lennox International, Inc.",359.23,12415232000.0,70
 LLY,Eli Lilly and Company,1152.93,1028115464192.0,65
 LIN,Linde plc,460.4,212235255808.0,58
@@ -368,7 +368,7 @@ PM,Philip Morris International Inc,188.62,293985648640.0,50
 PSX,Phillips 66,273.13,109507379200.0,70
 PNW,Pinnacle West Capital Corporati,94.21,11417991168.0,45
 PNC,"PNC Financial Services Group, I",233.17,93021700096.0,68
-PPG,"PPG Industries, Inc.",104.52,23234795520.0,63
+PPG,"PPG Industries, Inc.",104.52,23234795520.0,68
 PPL,PPL Corporation,33.34,25089845248.0,55
 PFG,Principal Financial Group Inc,117.67,25193693184.0,73
 PG,Procter & Gamble Company (The),146.39,340016005120.0,70
@@ -404,7 +404,7 @@ SPGI,S&P Global Inc.,405.32,119488339968.0,73
 CRM,"Salesforce, Inc.",237.92,195808165888.0,63
 SNDK,Sandisk Corporation,1791.82,262356500480.0,80
 SBAC,SBA Communications Corporation,178.59,18946275328.0,55
-SLB,SLB Limited,51.12,75869396992.0,68
+SLB,SLB Limited,51.12,75869396992.0,73
 STX,Seagate Technology Holdings PLC,858.79,195282829312.0,65
 SRE,DBA Sempra,81.31,53168635904.0,55
 NOW,"ServiceNow, Inc.",135.47,140057280512.0,58
