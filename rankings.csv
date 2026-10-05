@@ -4,7 +4,7 @@ AOS,A.O. Smith Corporation,56.75,7712811520.0,80
 ABT,Abbott Laboratories,97.5,168712372224.0,58
 ABBV,AbbVie Inc.,262.82,464433774592.0,50
 ACN,Accenture plc,198.9,121715277824.0,80
-ADBE,Adobe Inc.,237.69,94481776640.0,75
+ADBE,Adobe Inc.,237.69,92508946432.0,75
 AMD,"Advanced Micro Devices, Inc.",633.91,1034842210304.0,68
 AES,The AES Corporation,14.91,10637370368.0,50
 AFL,AFLAC Incorporated,111.54,55919833088.0,68
@@ -40,7 +40,7 @@ APO,"Apollo Global Management, Inc. ",114.02,67333730304.0,58
 AAPL,Apple Inc.,333.69,4869931925504.0,65
 AMAT,"Applied Materials, Inc.",540.04,428574343168.0,75
 APP,Applovin Corporation,268.22,90105700352.0,70
-APTV,Aptiv PLC,43.54,9040355328.0,55
+APTV,Aptiv PLC,43.54,9040355328.0,50
 ACGL,Arch Capital Group Ltd.,93.6,31939045376.0,78
 ADM,Archer-Daniels-Midland Company,80.45,38773645312.0,65
 ARES,Ares Management Corporation,117.55,39000260608.0,58
@@ -121,7 +121,7 @@ CMCSA,Comcast Corporation,21.57,76544090112.0,68
 FIX,"Comfort Systems USA, Inc.",1728.01,60816150528.0,75
 COP,ConocoPhillips,126.75,152269520896.0,73
 ED,"Consolidated Edison, Inc.",103.39,38236581888.0,55
-STZ,"Constellation Brands, Inc.",112.87,19278688256.0,75
+STZ,"Constellation Brands, Inc.",112.87,19275761664.0,75
 CEG,Constellation Energy Corporatio,257.49,91230609408.0,58
 COO,"The Cooper Companies, Inc.",56.91,10821737472.0,65
 CPRT,"Copart, Inc.",27.22,25214713856.0,73
@@ -137,7 +137,7 @@ CSX,CSX Corporation,47.43,87862886400.0,65
 CMI,Cummins Inc.,528.32,72730902528.0,65
 CVS,CVS Health Corporation,86.46,110579777536.0,55
 DHR,Danaher Corporation,214.06,150481190912.0,50
-DRI,"Darden Restaurants, Inc.",200.33,22745821184.0,60
+DRI,"Darden Restaurants, Inc.",200.33,22665981952.0,60
 DDOG,"Datadog, Inc.",277.22,99542777856.0,60
 DVA,DaVita Inc.,178.69,11400422400.0,60
 DECK,Deckers Outdoor Corporation,79.12,10774709248.0,85
@@ -216,7 +216,7 @@ GEN,Gen Digital Inc.,21.99,13162928128.0,65
 GNRC,Generac Holdlings Inc.,216.8,12805061632.0,60
 GD,General Dynamics Corporation,330.09,89308217344.0,73
 GIS,"General Mills, Inc.",32.01,17115334656.0,50
-GM,General Motors Company,78.27,70791413760.0,40
+GM,General Motors Company,78.27,68678127616.0,40
 GPC,Genuine Parts Company,127.24,17541275648.0,50
 GILD,"Gilead Sciences, Inc.",144.74,179471122432.0,40
 GPN,Global Payments Inc.,78.38,20740788224.0,50
@@ -257,14 +257,14 @@ ICE,Intercontinental Exchange Inc.,150.15,84293378048.0,63
 IFF,International Flavors & Fragran,82.42,21029459968.0,60
 IP,International Paper Company,31.97,16930349056.0,50
 INTU,Intuit Inc.,281.08,75114692608.0,80
-ISRG,"Intuitive Surgical, Inc.",391.95,140427083776.0,58
+ISRG,"Intuitive Surgical, Inc.",391.95,138467328000.0,58
 IVZ,Invesco Ltd,30.66,13536382976.0,60
 INVH,Invitation Homes Inc.,26.04,15379829760.0,55
 IQV,"IQVIA Holdings, Inc.",258.21,42501365760.0,55
 IRM,Iron Mountain Incorporated (Del,113.39,33756522496.0,50
 JBHT,"J.B. Hunt Transport Services, I",234.2,21994876928.0,68
 JBL,Jabil Inc.,304.41,31898236928.0,55
-JKHY,"Jack Henry & Associates, Inc.",142.54,9993850880.0,80
+JKHY,"Jack Henry & Associates, Inc.",142.54,9993763840.0,80
 J,Jacobs Solutions Inc.,138.06,16158350336.0,50
 JNJ,Johnson & Johnson,256.03,617006301184.0,65
 JCI,Johnson Controls International ,156.24,94641045504.0,58
@@ -427,11 +427,11 @@ SYK,Stryker Corporation,275.43,105647521792.0,58
 SMCI,"Super Micro Computer, Inc.",43.69,28702816256.0,75
 SYF,Synchrony Financial,71.77,23351865344.0,75
 SNPS,"Synopsys, Inc.",489.9,93882785792.0,60
-SYY,Sysco Corporation,77.49,37161746432.0,60
+SYY,Sysco Corporation,77.49,38118412288.0,60
 TMUS,"T-Mobile US, Inc.",163.64,175531982848.0,53
 TROW,"T. Rowe Price Group, Inc.",104.62,22317105152.0,78
 TTWO,"Take-Two Interactive Software, ",202.73,37906546688.0,50
-TPR,"Tapestry, Inc.",118.12,23552145408.0,60
+TPR,"Tapestry, Inc.",118.12,23439183872.0,60
 TRGP,"Targa Resources, Inc.",281.74,60413796352.0,55
 TGT,Target Corporation,156.0,70870294528.0,70
 TEL,TE Connectivity plc,220.36,63797133312.0,80
@@ -457,7 +457,7 @@ UBER,"Uber Technologies, Inc.",68.11,139118772224.0,75
 UDR,"UDR, Inc.",33.27,12222208000.0,63
 ULTA,"Ulta Beauty, Inc.",543.69,23246809088.0,70
 UNP,Union Pacific Corporation,278.28,165319327744.0,70
-UAL,"United Airlines Holdings, Inc.",112.51,36517339136.0,65
+UAL,"United Airlines Holdings, Inc.",112.51,36518920192.0,65
 UPS,"United Parcel Service, Inc.",93.02,79139700736.0,70
 URI,"United Rentals, Inc.",1081.04,67286622208.0,65
 UNH,UnitedHealth Group Incorporated,371.9,333815513088.0,63
