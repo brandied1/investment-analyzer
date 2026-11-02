@@ -101,7 +101,7 @@ CHTR,"Charter Communications, Inc.",111.49,14488972288.0,65
 CVX,Chevron Corporation,235.52,459499536384.0,65
 CMG,"Chipotle Mexican Grill, Inc.",31.89,40340049920.0,55
 CB,Chubb Limited,364.12,139122688000.0,78
-CHD,"Church & Dwight Company, Inc.",107.23,25309716480.0,68
+CHD,"Church & Dwight Company, Inc.",107.23,25309716480.0,58
 CIEN,Ciena Corporation,320.72,45480833024.0,65
 CI,The Cigna Group,298.23,78804443136.0,68
 CINF,Cincinnati Financial Corporatio,181.19,27814535168.0,78
@@ -151,7 +151,7 @@ DG,Dollar General Corporation,132.3,29187600384.0,63
 DLTR,"Dollar Tree, Inc.",133.87,25118068736.0,60
 D,"Dominion Energy, Inc.",66.62,58596696064.0,55
 DPZ,Domino's Pizza Inc,313.71,10319821824.0,55
-DASH,"DoorDash, Inc.",178.99,77555998720.0,68
+DASH,"DoorDash, Inc.",178.99,78035402752.0,68
 DOV,Dover Corporation,207.74,27629557760.0,73
 DOW,Dow Inc.,34.7,25118703616.0,50
 DHI,"D.R. Horton, Inc.",146.0,39629598720.0,78
@@ -175,7 +175,7 @@ EQIX,"Equinix, Inc.",1013.7,100344463360.0,58
 ERIE,Erie Indemnity Company,261.39,13668048896.0,80
 ESS,"Essex Property Trust, Inc.",264.18,18208921600.0,50
 EL,"Estee Lauder Companies, Inc. (T",109.23,39576518656.0,40
-EG,"Everest Group, Ltd.",410.97,15370277888.0,78
+EG,"Everest Group, Ltd.",410.97,15223560192.0,78
 EVRG,"Evergy, Inc.",85.93,19812636672.0,55
 P,"Everpure, Inc.",126.98,42313199616.0,68
 ES,Eversource Energy (D/B/A),68.55,25821054976.0,55
@@ -246,9 +246,9 @@ IBM,International Business Machines,257.81,243661602816.0,70
 IEX,IDEX Corporation,233.84,17176202240.0,68
 IDXX,"IDEXX Laboratories, Inc.",551.21,43481100288.0,65
 ITW,Illinois Tool Works Inc.,278.55,79163908096.0,60
-ILMN,"Illumina, Inc.",235.99,35634491392.0,65
+ILMN,"Illumina, Inc.",235.99,35681689600.0,65
 INCY,Incyte Corporation,120.39,24539394048.0,60
-IR,Ingersoll Rand Inc.,80.05,30740402176.0,73
+IR,Ingersoll Rand Inc.,80.05,30740785152.0,73
 PODD,Insulet Corporation,149.68,10380936192.0,65
 INTC,Intel Corporation,65.76,349514399744.0,60
 IBKR,"Interactive Brokers Group, Inc.",76.9,131023421440.0,65
@@ -418,7 +418,7 @@ SOLV,Solventum Corporation,81.33,13844295680.0,75
 SO,Southern Company (The),93.71,107800518656.0,63
 LUV,Southwest Airlines Company,42.43,20768481280.0,63
 SWK,"Stanley Black & Decker, Inc.",103.44,15621161984.0,50
-SBUX,Starbucks Corporation,103.67,118194159616.0,50
+SBUX,Starbucks Corporation,103.65,118171361280.0,50
 STT,State Street Corporation,169.77,46190690304.0,68
 STLD,"Steel Dynamics, Inc.",250.8,35668148224.0,80
 STE,STERIS plc (Ireland),227.12,22144225280.0,68
@@ -449,7 +449,7 @@ TDG,Transdigm Group Incorporated,1146.81,64145195008.0,50
 TRV,"The Travelers Companies, Inc.",396.22,81185480704.0,85
 TRMB,Trimble Inc.,64.94,15142699008.0,60
 TFC,Truist Financial Corporation,48.79,58474254336.0,60
-TWLO,Twilio Inc.,205.03,31487526912.0,68
+TWLO,Twilio Inc.,205.03,31725117440.0,68
 TYL,"Tyler Technologies, Inc.",394.3,15677179904.0,58
 TSN,"Tyson Foods, Inc.",57.04,20066758656.0,60
 USB,U.S. Bancorp,59.45,92626157568.0,68
