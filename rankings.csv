@@ -1,504 +1,504 @@
 Ticker,Company,Price,Market Cap,Score
-MMM,3M Company,189.37,97853079552.0,55
-AOS,A.O. Smith Corporation,64.36,8645411840.0,80
-ABT,Abbott Laboratories,110.46,191310266368.0,50
-ABBV,AbbVie Inc.,293.89,519484768256.0,50
-ACN,Accenture plc,258.51,152711544832.0,80
-ADBE,Adobe Inc.,236.7,92123635712.0,75
-AMD,"Advanced Micro Devices, Inc.",515.21,844989399040.0,68
+MMM,3M Company,188.88,97599881216.0,55
+AOS,A.O. Smith Corporation,64.61,8678993920.0,80
+ABT,Abbott Laboratories,109.29,189283909632.0,50
+ABBV,AbbVie Inc.,294.98,521411461120.0,50
+ACN,Accenture plc,253.66,149846474752.0,80
+ADBE,Adobe Inc.,237.6,92473925632.0,75
+AMD,"Advanced Micro Devices, Inc.",552.9,906804330496.0,68
 AES,The AES Corporation,14.92,10646384640.0,50
-AFL,AFLAC Incorporated,126.64,62637039616.0,63
-A,"Agilent Technologies, Inc.",177.88,50149507072.0,65
-APD,"Air Products and Chemicals, Inc",312.25,69533556736.0,50
-ABNB,"Airbnb, Inc.",186.9,111531114496.0,75
-AKAM,"Akamai Technologies, Inc.",83.71,12073423872.0,50
-ALB,Albemarle Corporation,94.93,11202674688.0,65
-ARE,Alexandria Real Estate Equities,44.7,7784980992.0,50
-ALGN,"Align Technology, Inc.",174.26,12283073536.0,68
-ALLE,Allegion plc,189.49,16113620992.0,70
-LNT,Alliant Energy Corporation,73.24,18995646464.0,63
-ALL,Allstate Corporation (The),261.12,64614014976.0,85
-GOOGL,Alphabet Inc.,287.38,3533049692160.0,80
-GOOG,Alphabet Inc.,284.92,3502806663168.0,85
-MO,"Altria Group, Inc.",76.34,126986772480.0,55
-AMZN,"Amazon.com, Inc.",270.87,2928954572800.0,80
-AMCR,Amcor plc,45.19,20870805504.0,55
-AEE,Ameren Corporation,113.68,31482255360.0,63
-AEP,American Electric Power Company,127.84,69612240896.0,63
-AXP,American Express Company,323.46,216896749568.0,70
-AIG,"American International Group, I",82.32,42677886976.0,70
-AMT,American Tower Corporation (REI,190.37,88286666752.0,55
-AWK,"American Water Works Company, I",150.36,29937375232.0,50
-AMP,"Ameriprise Financial, Inc.",519.96,45139013632.0,75
-AME,"AMETEK, Inc.",238.31,54648770560.0,58
-AMGN,Amgen Inc.,465.23,251648262144.0,55
-APH,Amphenol Corporation,79.95,197417435136.0,65
-ADI,"Analog Devices, Inc.",393.3,190579589120.0,68
-AON,Aon plc,336.34,71356948480.0,60
-APA,APA Corporation,45.12,15149309952.0,85
-APO,"Apollo Global Management, Inc. ",122.74,72469692416.0,50
-AAPL,Apple Inc.,348.51,5064611069952.0,65
-AMAT,"Applied Materials, Inc.",372.53,295638859776.0,75
-APP,Applovin Corporation,395.51,131041157120.0,65
-APTV,Aptiv PLC,39.57,8010158080.0,68
-ACGL,Arch Capital Group Ltd.,109.14,35527835648.0,78
-ADM,Archer-Daniels-Midland Company,69.3,32981202944.0,78
-ARES,Ares Management Corporation,139.41,46278017024.0,58
-ANET,"Arista Networks, Inc.",185.02,233754705920.0,65
-AJG,Arthur J. Gallagher & Co.,282.65,72475697152.0,50
-AIZ,"Assurant, Inc.",322.16,15807377408.0,73
-T,AT&T Inc.,21.94,147798228992.0,68
-ATO,Atmos Energy Corporation,175.37,29635522560.0,55
-ADSK,"Autodesk, Inc.",260.11,54362988544.0,65
-ADP,"Automatic Data Processing, Inc.",305.44,120575320064.0,65
-AZO,"AutoZone, Inc.",3217.44,51782574080.0,55
-AVY,Avery Dennison Corporation,189.04,14274681856.0,70
-AXON,"Axon Enterprise, Inc.",302.54,24636653568.0,50
-BKR,Baker Hughes Company,47.77,47439360000.0,63
-BALL,Ball Corporation,66.79,17384871936.0,50
-BAC,Bank of America Corporation,50.68,349702586368.0,68
-BAX,Baxter International Inc.,26.42,13668339712.0,50
-BDX,"Becton, Dickinson and Company",212.61,57912160256.0,50
+AFL,AFLAC Incorporated,127.11,62869504000.0,63
+A,"Agilent Technologies, Inc.",176.95,49893851136.0,65
+APD,"Air Products and Chemicals, Inc",315.18,70186024960.0,50
+ABNB,"Airbnb, Inc.",181.13,108087918592.0,75
+AKAM,"Akamai Technologies, Inc.",86.68,12501784576.0,50
+ALB,Albemarle Corporation,95.97,11325405184.0,65
+ARE,Alexandria Real Estate Equities,45.08,7851162112.0,50
+ALGN,"Align Technology, Inc.",172.08,12129413120.0,68
+ALLE,Allegion plc,191.09,16249678848.0,70
+LNT,Alliant Energy Corporation,73.62,19094204416.0,63
+ALL,Allstate Corporation (The),262.18,64876310528.0,85
+GOOGL,Alphabet Inc.,293.45,3607674224640.0,80
+GOOG,Alphabet Inc.,290.63,3573005156352.0,80
+MO,"Altria Group, Inc.",77.39,128733380608.0,55
+AMZN,"Amazon.com, Inc.",266.17,2878132977664.0,80
+AMCR,Amcor plc,44.39,20501329920.0,55
+AEE,Ameren Corporation,113.28,31371481088.0,63
+AEP,American Electric Power Company,129.21,70358253568.0,63
+AXP,American Express Company,323.11,216662048768.0,70
+AIG,"American International Group, I",82.85,42952658944.0,70
+AMT,American Tower Corporation (REI,190.24,88226381824.0,55
+AWK,"American Water Works Company, I",149.66,29798002688.0,50
+AMP,"Ameriprise Financial, Inc.",520.06,45147693056.0,75
+AME,"AMETEK, Inc.",239.69,54965231616.0,58
+AMGN,Amgen Inc.,468.11,253206069248.0,55
+APH,Amphenol Corporation,79.31,195837116416.0,65
+ADI,"Analog Devices, Inc.",409.08,198226034688.0,68
+AON,Aon plc,336.55,71401496576.0,60
+APA,APA Corporation,46.74,15693236224.0,85
+APO,"Apollo Global Management, Inc. ",122.95,72593686528.0,50
+AAPL,Apple Inc.,355.63,5168079831040.0,65
+AMAT,"Applied Materials, Inc.",395.08,313534480384.0,75
+APP,Applovin Corporation,404.77,134109192192.0,65
+APTV,Aptiv PLC,39.41,7977769472.0,68
+ACGL,Arch Capital Group Ltd.,109.17,35537600512.0,78
+ADM,Archer-Daniels-Midland Company,70.92,33752188928.0,78
+ARES,Ares Management Corporation,137.89,45773443072.0,58
+ANET,"Arista Networks, Inc.",196.68,248485969920.0,65
+AJG,Arthur J. Gallagher & Co.,282.01,72311595008.0,50
+AIZ,"Assurant, Inc.",323.38,15867238400.0,73
+T,AT&T Inc.,22.26,149953904640.0,68
+ATO,Atmos Energy Corporation,175.65,29682839552.0,55
+ADSK,"Autodesk, Inc.",260.01,54342090752.0,65
+ADP,"Automatic Data Processing, Inc.",306.36,120938487808.0,65
+AZO,"AutoZone, Inc.",3237.73,52109131776.0,55
+AVY,Avery Dennison Corporation,188.18,14209741824.0,70
+AXON,"Axon Enterprise, Inc.",315.42,25685508096.0,50
+BKR,Baker Hughes Company,49.41,49068007424.0,63
+BALL,Ball Corporation,65.81,17129785344.0,50
+BAC,Bank of America Corporation,50.67,349633576960.0,68
+BAX,Baxter International Inc.,26.34,13626951680.0,50
+BDX,"Becton, Dickinson and Company",214.52,58432421888.0,50
 BRK.B,BRK.B,,,50
-BBY,"Best Buy Co., Inc.",104.1,21832652800.0,70
-TECH,Bio-Techne Corp,72.82,11439346688.0,60
-BIIB,Biogen Inc.,253.25,37435469824.0,60
-BLK,"BlackRock, Inc.",1222.15,188728590336.0,68
-BX,Blackstone Inc.,122.53,151247781888.0,65
-XYZ,"Block, Inc.",85.58,51734990848.0,60
-BE,Bloom Energy Corporation,185.42,54798508032.0,65
-BNY,The Bank of New York Mellon Cor,151.14,101701877760.0,63
-BA,Boeing Company (The),173.38,137394970624.0,45
-BKNG,Booking Holdings Inc. Common St,159.26,118441852928.0,55
-BSX,Boston Scientific Corporation,44.7,64791457792.0,73
-BMY,Bristol-Myers Squibb Company,62.8,128368590848.0,75
-AVGO,Broadcom Inc.,331.98,1584749740032.0,65
-BR,"Broadridge Financial Solutions,",192.96,21824980992.0,70
-BRO,"Brown & Brown, Inc.",71.89,23845326848.0,55
+BBY,"Best Buy Co., Inc.",105.16,22054965248.0,70
+TECH,Bio-Techne Corp,72.8,11436205056.0,60
+BIIB,Biogen Inc.,253.4,37457645568.0,60
+BLK,"BlackRock, Inc.",1226.31,189370990592.0,68
+BX,Blackstone Inc.,122.01,150605905920.0,65
+XYZ,"Block, Inc.",85.72,51819626496.0,60
+BE,Bloom Energy Corporation,209.47,61931208704.0,65
+BNY,The Bank of New York Mellon Cor,152.69,102744875008.0,63
+BA,Boeing Company (The),174.54,138314203136.0,45
+BKNG,Booking Holdings Inc. Common St,160.21,119148380160.0,55
+BSX,Boston Scientific Corporation,45.13,65414729728.0,73
+BMY,Bristol-Myers Squibb Company,62.91,128593444864.0,75
+AVGO,Broadcom Inc.,345.22,1647952527360.0,65
+BR,"Broadridge Financial Solutions,",192.85,21812539392.0,70
+BRO,"Brown & Brown, Inc.",71.39,23679479808.0,55
 BF.B,BF.B,,,50
-BG,Bunge Limited,99.42,19102932992.0,55
-BXP,"BXP, Inc.",63.54,11477939200.0,45
-CHRW,"C.H. Robinson Worldwide, Inc.",128.99,14955312128.0,70
-CDNS,"Cadence Design Systems, Inc.",331.64,90995056640.0,75
-CPT,Camden Property Trust,99.89,9995960320.0,75
-COF,Capital One Financial Corporati,195.84,117804253184.0,60
-CAH,"Cardinal Health, Inc.",276.79,63976316928.0,50
-CCL,Carnival Corporation Ltd.,30.74,41333317632.0,75
-CARR,Carrier Global Corporation,53.01,43370672128.0,50
-CVNA,Carvana Co.,73.02,108939124736.0,65
-CASY,"Caseys General Stores, Inc.",698.48,25815937024.0,58
-CAT,"Caterpillar, Inc.",584.57,267495833600.0,60
-CBOE,"Cboe Global Markets, Inc.",364.81,38060711936.0,75
-CBRE,CBRE Group Inc,134.79,38845972480.0,58
-CDW,CDW Corporation,169.36,21137707008.0,60
-COR,"Cencora, Inc.",348.71,66543341568.0,60
-CNC,Centene Corporation,70.19,34748825600.0,55
-CNP,"CenterPoint Energy, Inc (Holdin",41.24,27337156608.0,53
-CF,"CF Industries Holdings, Inc.",122.36,17899421696.0,85
-CRL,Charles River Laboratories Inte,345.8,16569860096.0,50
-SCHW,Charles Schwab Corporation (The,93.03,160570490880.0,70
-CHTR,"Charter Communications, Inc.",134.06,24003651584.0,50
-CVX,Chevron Corporation,211.22,412143779840.0,73
-CMG,"Chipotle Mexican Grill, Inc.",35.92,45437898752.0,55
-CB,Chubb Limited,369.11,141029261312.0,78
-CHD,"Church & Dwight Company, Inc.",111.76,26378942464.0,58
-CIEN,Ciena Corporation,272.1,38586101760.0,65
-CI,The Cigna Group,303.13,79875530752.0,68
-CINF,Cincinnati Financial Corporatio,189.89,29150074880.0,78
-CTAS,Cintas Corporation,225.28,89453076480.0,65
-CSCO,"Cisco Systems, Inc.",98.15,386964914176.0,65
-C,"Citigroup, Inc.",122.27,202381852672.0,60
-CFG,"Citizens Financial Group, Inc.",64.82,27172222976.0,60
-CLX,Clorox Company (The),106.6,12892010496.0,60
-CME,CME Group Inc.,309.09,110633787392.0,68
-CMS,CMS Energy Corporation,69.78,21884796928.0,55
-KO,Coca-Cola Company (The),96.91,416897368064.0,65
-CTSH,Cognizant Technology Solutions ,65.0,29056978944.0,78
-COHR,Coherent Corp.,214.66,42279149568.0,60
-COIN,"Coinbase Global, Inc.",132.13,34983190528.0,60
-CL,Colgate-Palmolive Company,98.09,77973749760.0,55
-CMCSA,Comcast Corporation,24.75,87887405056.0,68
-FIX,"Comfort Systems USA, Inc.",1105.93,38922465280.0,80
-COP,ConocoPhillips,135.59,160312819712.0,78
-ED,"Consolidated Edison, Inc.",119.28,44268834816.0,55
-STZ,"Constellation Brands, Inc.",145.51,24623816704.0,75
-CEG,Constellation Energy Corporatio,267.76,94146699264.0,63
-COO,"The Cooper Companies, Inc.",63.57,12088172544.0,65
-CPRT,"Copart, Inc.",32.3,29920473088.0,73
-GLW,Corning Incorporated,112.13,96588898304.0,58
-CPAY,"Corpay, Inc.",459.64,29404012544.0,55
-CSGP,"CoStar Group, Inc.",30.33,12202891264.0,60
-COST,Costco Wholesale Corporation,1066.14,472437915648.0,75
-CRH,CRH PLC,96.86,64434249728.0,63
-CRWD,"CrowdStrike Holdings, Inc.",225.76,231163527168.0,60
-CCI,Crown Castle Inc.,89.35,38016741376.0,50
-CSX,CSX Corporation,51.08,94160789504.0,65
-CMI,Cummins Inc.,454.18,62258032640.0,70
-CVS,CVS Health Corporation,89.01,113886003200.0,68
-DHR,Danaher Corporation,236.11,166110658560.0,50
-DRI,"Darden Restaurants, Inc.",228.66,25871329280.0,60
-DDOG,"Datadog, Inc.",178.4,64409989120.0,60
-DVA,DaVita Inc.,179.28,11276711936.0,65
-DECK,Deckers Outdoor Corporation,89.79,11985168384.0,85
-DE,Deere & Company,687.64,185405227008.0,48
-DELL,Dell Technologies Inc.,334.38,212603060224.0,55
-DAL,"Delta Air Lines, Inc.",92.2,60659519488.0,63
-DVN,Devon Energy Corporation,43.41,49474998272.0,78
-DXCM,"DexCom, Inc.",79.92,29806235648.0,65
-FANG,"Diamondback Energy, Inc.",178.08,49714208768.0,65
-DLR,"Digital Realty Trust, Inc.",180.88,69637152768.0,50
-DG,Dollar General Corporation,137.31,30292889600.0,63
-DLTR,"Dollar Tree, Inc.",140.83,26423975936.0,60
-D,"Dominion Energy, Inc.",68.37,60135936000.0,55
-DPZ,Domino's Pizza Inc,330.06,10857671680.0,55
-DASH,"DoorDash, Inc.",178.25,77712777216.0,68
-DOV,Dover Corporation,212.0,28197629952.0,73
-DOW,Dow Inc.,31.48,22787803136.0,50
-DHI,"D.R. Horton, Inc.",149.7,40633909248.0,78
-DTE,DTE Energy Company,138.99,28932589568.0,53
-DUK,Duke Energy Corporation (Holdin,128.94,100535590912.0,63
-DD,"DuPont de Nemours, Inc.",156.88,20791672832.0,60
-ETN,"Eaton Corporation, PLC",354.22,137614475264.0,58
-EBAY,eBay Inc.,123.52,54225276928.0,65
-ECHO,EchoStar Corporation,104.16,30308284416.0,75
-ECL,Ecolab Inc.,306.03,85831557120.0,65
-EIX,Edison International,60.2,23164190720.0,58
-EW,Edwards Lifesciences Corporatio,104.01,59805749248.0,60
-ELV,"Elevance Health, Inc.",429.65,92828409856.0,63
-EME,"EMCOR Group, Inc.",645.39,28256468992.0,80
-EMR,Emerson Electric Company,167.54,91912437760.0,58
-ETR,Entergy Corporation,111.71,53378068480.0,58
-EOG,"EOG Resources, Inc.",151.51,78555545600.0,85
-EQT,EQT Corporation,52.0,32528570368.0,78
-EFX,"Equifax, Inc.",188.23,22026141696.0,58
-EQIX,"Equinix, Inc.",1050.0,103937736704.0,58
-ERIE,Erie Indemnity Company,272.09,14227550208.0,80
-ESS,"Essex Property Trust, Inc.",275.75,19027290112.0,50
-EL,"Estee Lauder Companies, Inc. (T",113.43,41099145216.0,40
-EG,"Everest Group, Ltd.",422.32,15643998208.0,78
-EVRG,"Evergy, Inc.",88.44,20738885632.0,63
-P,"Everpure, Inc.",101.98,33982517248.0,68
-ES,Eversource Energy (D/B/A),69.62,26224097280.0,55
-EXC,Exelon Corporation,45.53,47118843904.0,55
-EXE,Expand Energy Corporation,87.94,20310388736.0,78
-EXPE,"Expedia Group, Inc.",253.77,30090602496.0,75
-EXPD,Expeditors International of Was,189.19,24426448896.0,80
-EXR,Extra Space Storage Inc,158.95,34675388416.0,50
-XOM,ExxonMobil Holdings Corporation,164.47,670909726720.0,73
-FFIV,"F5, Inc.",317.31,18026698752.0,68
-FDS,FactSet Research Systems Inc.,325.98,11497273344.0,70
-FICO,Fair Isaac Corporation,730.66,15622188032.0,55
-FAST,Fastenal Company,54.84,62918012928.0,75
-FRT,Federal Realty Investment Trust,113.77,9846561792.0,63
-FDX,FedEx Corporation,319.48,74822017024.0,63
-FDXF,"FedEx Freight Holding Company, ",129.83,19412346880.0,65
-FERG,Ferguson Enterprises Inc.,259.44,50240196608.0,55
-FIS,Fidelity National Information S,28.31,14592962560.0,75
-FITB,Fifth Third Bancorp,54.19,48968560640.0,55
-FSLR,"First Solar, Inc.",180.98,19451938816.0,78
-FE,FirstEnergy Corp.,46.48,26906959872.0,53
-FISV,"Fiserv, Inc.",63.32,33689260032.0,50
-FLEX,Flex Ltd.,76.09,28112271360.0,58
-F,Ford Motor Company,12.28,49036709888.0,40
-FTNT,"Fortinet, Inc.",123.57,90788085760.0,75
-FTV,Fortive Corporation,67.73,20159459328.0,58
-FOXA,Fox Corporation,67.37,38151729152.0,68
-FOX,Fox Corporation,60.25,25413535744.0,68
-BEN,"Franklin Templeton, Inc.",36.29,18598625280.0,73
-FCX,"Freeport-McMoRan, Inc.",60.31,86540992512.0,68
-GRMN,Garmin Ltd.,288.66,55623426048.0,75
-IT,"Gartner, Inc.",188.92,11917329408.0,75
-GE,GE Aerospace,337.91,350602756096.0,65
-GEHC,GE HealthCare Technologies Inc.,83.65,37821329408.0,70
-GEV,GE Vernova Inc.,797.04,210958204928.0,80
-GEN,Gen Digital Inc.,30.01,17804216320.0,60
-GNRC,Generac Holdlings Inc.,181.78,10723017728.0,68
-GD,General Dynamics Corporation,367.44,99291004928.0,73
-GIS,"General Mills, Inc.",34.6,18500173824.0,50
-GM,General Motors Company,88.69,74814398464.0,45
-GPC,Genuine Parts Company,124.71,17193105408.0,50
-GILD,"Gilead Sciences, Inc.",170.87,211936641024.0,40
-GPN,Global Payments Inc.,101.59,26884349952.0,50
-GL,Globe Life Inc.,163.46,12331379712.0,68
-GDDY,GoDaddy Inc.,113.13,13719806976.0,55
-GS,"Goldman Sachs Group, Inc. (The)",910.19,262530285568.0,58
-HAL,Halliburton Company,31.86,26352244736.0,68
-HIG,"The Hartford Insurance Group, I",137.8,36849565696.0,85
-HAS,"Hasbro, Inc.",121.82,17038060544.0,60
-HCA,"HCA Healthcare, Inc.",504.42,105369559040.0,55
-DOC,"Healthpeak Properties, Inc.",20.41,14818042880.0,50
-HSIC,"Henry Schein, Inc.",88.74,9809189888.0,55
-HSY,The Hershey Company,173.95,34960535552.0,70
-HPE,Hewlett Packard Enterprise Comp,47.93,63625388032.0,63
-HLT,Hilton Worldwide Holdings Inc.,376.53,83779559424.0,50
-HD,"Home Depot, Inc. (The)",351.0,350189060096.0,60
-HONA,Honeywell Aerospace Inc.,166.47,52776292352.0,50
-HON,Honeywell International Inc.,228.22,72332050432.0,75
-HRL,Hormel Foods Corporation,22.21,12223290368.0,60
-HST,"Host Hotels & Resorts, Inc.",25.93,18009780224.0,63
-HWM,Howmet Aerospace Inc.,219.05,87107526656.0,65
-HPQ,HP Inc.,28.42,25628899328.0,60
-HUBB,Hubbell Inc,437.79,23130650624.0,65
-HUM,Humana Inc.,438.06,52612427776.0,50
-HBAN,Huntington Bancshares Incorpora,15.84,31923734528.0,60
-HII,"Huntington Ingalls Industries, ",313.57,12356558848.0,63
-IBM,International Business Machines,244.53,231110393856.0,70
-IEX,IDEX Corporation,236.9,17400967168.0,68
-IDXX,"IDEXX Laboratories, Inc.",696.64,54885662720.0,65
-ITW,Illinois Tool Works Inc.,288.05,81863802880.0,55
-ILMN,"Illumina, Inc.",214.91,32494393344.0,65
-INCY,Incyte Corporation,120.3,24521050112.0,60
-IR,Ingersoll Rand Inc.,85.86,32971937792.0,73
-PODD,Insulet Corporation,148.06,10271076352.0,70
-INTC,Intel Corporation,58.13,308960952320.0,60
-IBKR,"Interactive Brokers Group, Inc.",77.59,132201029632.0,65
-ICE,Intercontinental Exchange Inc.,176.36,98560270336.0,63
-IFF,International Flavors & Fragran,83.17,20825042944.0,50
-IP,International Paper Company,35.13,18604937216.0,50
-INTU,Intuit Inc.,340.44,90977820672.0,80
-ISRG,"Intuitive Surgical, Inc.",450.04,156003532800.0,58
-IVZ,Invesco Ltd,28.87,12689200128.0,60
-INVH,Invitation Homes Inc.,27.09,15667531776.0,55
-IQV,"IQVIA Holdings, Inc.",275.15,45344718848.0,55
-IRM,Iron Mountain Incorporated (Del,110.78,32994027520.0,50
-JBHT,"J.B. Hunt Transport Services, I",226.27,21092663296.0,68
-JBL,Jabil Inc.,249.82,25725083648.0,55
-JKHY,"Jack Henry & Associates, Inc.",175.19,12196502528.0,80
-J,Jacobs Solutions Inc.,157.11,18551687168.0,50
-JNJ,Johnson & Johnson,280.78,675924606976.0,65
-JCI,Johnson Controls International ,141.12,85482225664.0,65
-JPM,JP Morgan Chase & Co.,342.07,908404391936.0,68
-KDP,Keurig Dr Pepper Inc.,37.59,51158048768.0,50
-KEY,KeyCorp,21.34,22534608896.0,68
-KEYS,Keysight Technologies Inc.,291.46,49619533824.0,75
-KMB,Kimberly-Clark Corporation,110.76,67970678784.0,60
-KIM,Kimco Realty Corporation (HC),25.68,17064068096.0,55
-KMI,"Kinder Morgan, Inc.",31.19,69482438656.0,63
-KKR,KKR & Co. Inc.,100.85,92589826048.0,50
-KLAC,KLA Corporation,152.99,199340228608.0,65
-KHC,The Kraft Heinz Company,24.24,28696014848.0,60
-KR,Kroger Company (The),68.6,40514383872.0,48
-LHX,"L3Harris Technologies, Inc.",275.96,51383955456.0,58
-LH,Labcorp Holdings Inc.,370.88,30115457024.0,58
-LRCX,Lam Research Corporation,222.39,277803139072.0,75
-LVS,Las Vegas Sands Corp.,40.82,26439161856.0,70
-LDOS,"Leidos Holdings, Inc.",137.24,16742552576.0,75
-LEN,Lennar Corporation,86.66,20616435712.0,65
-LII,"Lennox International, Inc.",347.93,11902139392.0,70
-LLY,Eli Lilly and Company,1432.29,1275805171712.0,65
-LIN,Linde plc,521.78,239540748288.0,58
-LYV,"Live Nation Entertainment, Inc.",178.25,42012909568.0,55
-LMT,Lockheed Martin Corporation,603.12,139323523072.0,60
-L,Loews Corporation,110.93,22432845824.0,65
-LOW,"Lowe's Companies, Inc.",231.87,130091589632.0,55
-LULU,lululemon athletica inc.,110.37,12783714304.0,85
-LITE,Lumentum Holdings Inc.,585.57,53102362624.0,60
-LYB,LyondellBasell Industries NV,60.6,19588495360.0,68
-MTB,M&T Bank Corporation,220.61,31643070464.0,68
-MPC,Marathon Petroleum Corporation,389.55,106067558400.0,75
-MAR,Marriott International,428.26,110278836224.0,50
-MRSH,Marsh,206.94,98402934784.0,70
-MLM,"Martin Marietta Materials, Inc.",528.21,37565497344.0,50
-MRVL,"Marvell Technology, Inc.",154.39,138914856960.0,68
-MAS,Masco Corporation,84.8,16346820608.0,55
-MA,Mastercard Incorporated,658.84,573965729792.0,55
-MKC,"McCormick & Company, Incorporat",46.72,12570692608.0,75
-MCD,McDonald's Corporation,282.17,199151304704.0,55
-MCK,McKesson Corporation,1082.59,124992225280.0,50
-MDT,Medtronic plc.,101.59,129947615232.0,63
-MRK,"Merck & Company, Inc.",148.05,364979617792.0,50
-META,"Meta Platforms, Inc.",641.39,1639927119872.0,80
-MET,"MetLife, Inc.",102.44,64377610240.0,58
-MTD,"Mettler-Toledo International, I",1751.38,34835656704.0,40
-MGM,MGM Resorts International,33.06,8364529152.0,65
-MCHP,Microchip Technology Incorporat,60.33,32833011712.0,58
-MU,"Micron Technology, Inc.",725.11,820406255616.0,85
-MSFT,Microsoft Corporation,533.16,3959349575680.0,75
-MAA,Mid-America Apartment Communiti,118.86,14135213056.0,50
-MRNA,"Moderna, Inc.",250.83,101491073024.0,50
-MDLZ,"Mondelez International, Inc.",66.54,84228882432.0,63
-MPWR,"Monolithic Power Systems, Inc.",1357.6,66207436800.0,75
-MNST,Monster Beverage Corporation,45.34,88753594368.0,75
-MCO,Moody's Corporation,510.71,88058699776.0,55
-MS,Morgan Stanley,187.56,293164482560.0,58
-MOS,Mosaic Company (The),22.99,7308604928.0,50
-MSI,"Motorola Solutions, Inc.",527.38,87193812992.0,55
-MSCI,MSCI Inc.,656.86,46965489664.0,50
-NDAQ,"Nasdaq, Inc.",110.02,61498687488.0,58
-NTAP,"NetApp, Inc.",175.99,34567782400.0,70
-NFLX,"Netflix, Inc.",63.26,259766173696.0,70
-NEM,Newmont Corporation,119.96,124661620736.0,85
-NWSA,News Corporation,26.61,14282822656.0,65
-NWS,News Corporation,29.81,16000410624.0,60
-NEE,"NextEra Energy, Inc.",86.27,180934590464.0,63
-NKE,"Nike, Inc.",38.67,57436889088.0,70
-NI,NiSource Inc,45.29,21724192768.0,55
-NDSN,Nordson Corporation,325.1,18113904640.0,58
-NSC,Norfolk Southern Corporation,327.93,73658548224.0,58
-NTRS,Northern Trust Corporation,177.89,32219045888.0,68
-NOC,Northrop Grumman Corporation,548.61,77937999872.0,70
-NCLH,Norwegian Cruise Line Holdings ,18.51,8501188608.0,65
-NRG,"NRG Energy, Inc.",97.11,20395165696.0,60
-NUE,Nucor Corporation,256.47,57691435008.0,73
-NVDA,NVIDIA Corporation,168.89,4078186790912.0,80
-NVR,"NVR, Inc.",6036.42,15971087360.0,80
-NXPI,NXP Semiconductors N.V.,261.56,65926979584.0,70
-ORLY,"O'Reilly Automotive, Inc.",89.39,71695130624.0,50
-OXY,Occidental Petroleum Corporatio,56.9,56894009344.0,78
-OKTA,"Okta, Inc.",178.36,31181060096.0,60
-ODFL,"Old Dominion Freight Line, Inc.",168.02,34618822656.0,75
-OMC,Omnicom Group Inc.,88.84,25319950336.0,50
-ON,ON Semiconductor Corporation,69.61,27098093568.0,50
-OKE,"ONEOK, Inc.",87.37,55082455040.0,68
-ORCL,Oracle Corporation,117.98,367827189760.0,60
-OTIS,Otis Worldwide Corporation,78.13,29744912384.0,55
-PCAR,PACCAR Inc.,105.57,55583170560.0,63
-PKG,Packaging Corporation of Americ,254.23,22650535936.0,58
-PLTR,Palantir Technologies Inc.,168.82,406771400704.0,75
-PANW,"Palo Alto Networks, Inc.",326.36,267107090432.0,60
-PH,Parker-Hannifin Corporation,965.17,121704841216.0,65
-PAYX,"Paychex, Inc.",116.2,41364930560.0,70
-PYPL,"PayPal Holdings, Inc.",58.78,48826093568.0,75
-PNR,Pentair plc.,69.63,11116755968.0,73
-PEP,"Pepsico, Inc.",143.61,195703259136.0,60
-PFE,"Pfizer, Inc.",29.36,167347716096.0,50
-PCG,Pacific Gas & Electric Co.,13.23,29138143232.0,60
-PM,Philip Morris International Inc,194.25,302768848896.0,50
-PSX,Phillips 66,250.7,97791139840.0,75
-PNW,Pinnacle West Capital Corporati,105.96,12842479616.0,45
-PNC,"PNC Financial Services Group, I",231.3,91774754816.0,68
-PPG,"PPG Industries, Inc.",124.42,27484377088.0,63
-PPL,PPL Corporation,35.72,26888153088.0,55
-PFG,Principal Financial Group Inc,115.99,24633544704.0,78
-PG,Procter & Gamble Company (The),168.66,390917292032.0,65
-PGR,Progressive Corporation (The),231.75,134267183104.0,85
-PLD,"Prologis, Inc.",130.1,126492459008.0,50
-PRU,"Prudential Financial, Inc.",123.3,42291900416.0,68
-PTC,PTC Inc.,196.55,21351663616.0,70
-PEG,Public Service Enterprise Group,74.68,37229133824.0,63
-PSA,Public Storage,335.93,62766321664.0,58
-PHM,"PulteGroup, Inc.",130.6,24877518848.0,78
-Q,"Qnity Electronics, Inc.",123.64,25846120448.0,50
-QCOM,QUALCOMM Incorporated,173.53,185677103104.0,75
-PWR,"Quanta Services, Inc.",583.14,87865876480.0,58
-DGX,Quest Diagnostics Incorporated,258.44,28524892160.0,58
-RL,Ralph Lauren Corporation,399.61,23617632256.0,70
-RJF,"Raymond James Financial, Inc.",168.11,32337928192.0,78
-RDDT,"Reddit, Inc.",98.67,19052558336.0,80
-O,Realty Income Corporation,59.54,56782041088.0,50
-REG,Regency Centers Corporation,76.54,14310168576.0,50
-REGN,"Regeneron Pharmaceuticals, Inc.",916.06,94764441600.0,73
-RF,Regions Financial Corporation,28.7,24361920512.0,68
-RSG,"Republic Services, Inc.",247.62,75434868736.0,58
-RMD,ResMed Inc.,234.11,32929226752.0,80
-RVTY,"Revvity, Inc.",159.1,17753397248.0,60
-HOOD,"Robinhood Markets, Inc.",81.33,73236955136.0,55
-ROK,"Rockwell Automation, Inc.",397.16,44104089600.0,65
-ROL,"Rollins, Inc.",38.42,18485606400.0,65
-ROP,"Roper Technologies, Inc.",474.47,46989815808.0,63
-ROST,"Ross Stores, Inc.",238.95,76333318144.0,65
-RCL,Royal Caribbean Cruises Ltd.,339.85,90899996672.0,70
-RTX,RTX Corporation,200.27,270252457984.0,58
-SPGI,S&P Global Inc.,473.38,137232867328.0,58
-CRM,"Salesforce, Inc.",213.48,175694036992.0,63
-SNDK,Sandisk Corporation,859.99,122367426560.0,85
-SBAC,SBA Communications Corporation,191.43,19990648832.0,55
-SLB,SLB Limited,49.9,73653878784.0,73
-STX,Seagate Technology Holdings PLC,501.62,115152437248.0,65
-SRE,DBA Sempra,78.38,51269894144.0,55
-NOW,"ServiceNow, Inc.",99.61,103386914816.0,58
-SHW,Sherwin-Williams Company (The),355.34,85845901312.0,55
-SPG,"Simon Property Group, Inc.",234.48,88758689792.0,60
-SKYD,Skydance Corporation,8.04,40555548672.0,50
-SWKS,"Skyworks Solutions, Inc.",82.71,19450542080.0,60
-SJM,The J.M. Smucker Company,133.6,14271578112.0,50
-SW,Smurfit WestRock plc,44.36,23268016128.0,50
-SNA,Snap-On Incorporated,373.28,19254241280.0,73
-SOLV,Solventum Corporation,90.08,15309717504.0,50
-SO,Southern Company (The),93.65,109033046016.0,63
-LUV,Southwest Airlines Company,46.32,22672543744.0,63
-SWK,"Stanley Black & Decker, Inc.",116.44,17314189312.0,55
-SBUX,Starbucks Corporation,109.95,125353984000.0,50
-STT,State Street Corporation,171.62,46694031360.0,68
-STLD,"Steel Dynamics, Inc.",236.12,33580392448.0,80
-STE,STERIS plc (Ireland),257.12,24968157184.0,68
-SYK,Stryker Corporation,324.29,123454291968.0,58
-SMCI,"Super Micro Computer, Inc.",27.79,18319929344.0,75
-SYF,Synchrony Financial,71.7,23329089536.0,68
-SNPS,"Synopsys, Inc.",459.95,88143273984.0,60
-SYY,Sysco Corporation,77.63,38214975488.0,60
-TMUS,"T-Mobile US, Inc.",169.08,179101810688.0,53
-TROW,"T. Rowe Price Group, Inc.",110.9,23657846784.0,78
-TTWO,"Take-Two Interactive Software, ",224.64,42055639040.0,50
-TPR,"Tapestry, Inc.",135.62,26651566080.0,60
-TRGP,"Targa Resources, Inc.",281.32,60358336512.0,60
-TGT,Target Corporation,161.78,73495273472.0,70
-TEL,TE Connectivity plc,217.76,62430724096.0,80
-TDY,Teledyne Technologies Incorpora,646.13,29934645248.0,60
-TER,"Teradyne, Inc.",245.4,38313013248.0,75
-TSLA,"Tesla, Inc.",379.78,1501178494976.0,60
-TXN,Texas Instruments Incorporated,300.52,274606243840.0,65
-TPL,Texas Pacific Land Corporation,274.63,18942517248.0,75
-TXT,Textron Inc.,86.82,14707306496.0,63
-TMO,Thermo Fisher Scientific Inc,718.2,266104504320.0,58
-TJX,"TJX Companies, Inc. (The)",136.92,151256121344.0,65
-TKO,"TKO Group Holdings, Inc.",199.22,37572661248.0,50
-TSCO,Tractor Supply Company,37.5,19446513664.0,60
-TT,Trane Technologies plc,420.82,92115542016.0,75
-TDG,Transdigm Group Incorporated,1225.54,68548845568.0,50
-TRV,"The Travelers Companies, Inc.",400.78,82119819264.0,85
-TRMB,Trimble Inc.,54.75,12551054336.0,60
+BG,Bunge Limited,100.28,19268177920.0,55
+BXP,"BXP, Inc.",63.44,11459874816.0,45
+CHRW,"C.H. Robinson Worldwide, Inc.",133.76,15508352000.0,70
+CDNS,"Cadence Design Systems, Inc.",329.26,90342031360.0,75
+CPT,Camden Property Trust,99.09,9915904000.0,75
+COF,Capital One Financial Corporati,197.11,118568206336.0,60
+CAH,"Cardinal Health, Inc.",277.45,64128868352.0,50
+CCL,Carnival Corporation Ltd.,30.68,41252638720.0,75
+CARR,Carrier Global Corporation,54.58,44655185920.0,50
+CVNA,Carvana Co.,73.87,110207254528.0,65
+CASY,"Caseys General Stores, Inc.",714.11,26393624576.0,58
+CAT,"Caterpillar, Inc.",601.61,275293241344.0,60
+CBOE,"Cboe Global Markets, Inc.",369.19,38517678080.0,75
+CBRE,CBRE Group Inc,134.58,38785454080.0,58
+CDW,CDW Corporation,173.08,21601996800.0,60
+COR,"Cencora, Inc.",349.88,66766610432.0,60
+CNC,Centene Corporation,70.48,34892394496.0,55
+CNP,"CenterPoint Energy, Inc (Holdin",41.0,27178063872.0,53
+CF,"CF Industries Holdings, Inc.",123.24,18028152832.0,85
+CRL,Charles River Laboratories Inte,342.69,16420837376.0,50
+SCHW,Charles Schwab Corporation (The,92.78,160138985472.0,70
+CHTR,"Charter Communications, Inc.",136.31,24406515712.0,50
+CVX,Chevron Corporation,213.28,416163364864.0,73
+CMG,"Chipotle Mexican Grill, Inc.",36.64,46348681216.0,55
+CB,Chubb Limited,370.33,141495402496.0,78
+CHD,"Church & Dwight Company, Inc.",112.02,26440308736.0,58
+CIEN,Ciena Corporation,296.04,41980997632.0,65
+CI,The Cigna Group,301.45,79432851456.0,68
+CINF,Cincinnati Financial Corporatio,189.78,29133189120.0,78
+CTAS,Cintas Corporation,227.26,90239287296.0,65
+CSCO,"Cisco Systems, Inc.",100.76,397255049216.0,65
+C,"Citigroup, Inc.",124.21,205592952832.0,60
+CFG,"Citizens Financial Group, Inc.",65.38,27406970880.0,60
+CLX,Clorox Company (The),106.86,12923454464.0,60
+CME,CME Group Inc.,315.865,113058783232.0,68
+CMS,CMS Energy Corporation,69.62,21834616832.0,55
+KO,Coca-Cola Company (The),97.57,419736616960.0,65
+CTSH,Cognizant Technology Solutions ,64.43,28802170880.0,78
+COHR,Coherent Corp.,234.51,46188777472.0,60
+COIN,"Coinbase Global, Inc.",136.27,36079312896.0,60
+CL,Colgate-Palmolive Company,98.0,77902209024.0,55
+CMCSA,Comcast Corporation,25.02,88846180352.0,68
+FIX,"Comfort Systems USA, Inc.",1161.63,40640675840.0,75
+COP,ConocoPhillips,137.86,162996715520.0,78
+ED,"Consolidated Edison, Inc.",119.19,44235431936.0,55
+STZ,"Constellation Brands, Inc.",144.12,24388593664.0,75
+CEG,Constellation Energy Corporatio,274.73,96597409792.0,63
+COO,"The Cooper Companies, Inc.",62.93,11966473216.0,65
+CPRT,"Copart, Inc.",32.17,29801578496.0,73
+GLW,Corning Incorporated,120.46,103764377600.0,58
+CPAY,"Corpay, Inc.",461.95,29551785984.0,55
+CSGP,"CoStar Group, Inc.",30.265,12176739328.0,60
+COST,Costco Wholesale Corporation,1087.61,481951907840.0,75
+CRH,CRH PLC,96.26,64035110912.0,63
+CRWD,"CrowdStrike Holdings, Inc.",229.06,234542514176.0,60
+CCI,Crown Castle Inc.,89.06,37893353472.0,50
+CSX,CSX Corporation,51.9,95672369152.0,65
+CMI,Cummins Inc.,463.26,63466622976.0,70
+CVS,CVS Health Corporation,89.52,114538520576.0,68
+DHR,Danaher Corporation,235.31,165547835392.0,50
+DRI,"Darden Restaurants, Inc.",228.94,25903009792.0,60
+DDOG,"Datadog, Inc.",184.38,66569027584.0,60
+DVA,DaVita Inc.,183.5,11542150144.0,65
+DECK,Deckers Outdoor Corporation,88.38,11796960256.0,85
+DE,Deere & Company,691.75,186513375232.0,48
+DELL,Dell Technologies Inc.,373.68,237590495232.0,55
+DAL,"Delta Air Lines, Inc.",91.32,60080558080.0,63
+DVN,Devon Energy Corporation,44.95,51230158848.0,78
+DXCM,"DexCom, Inc.",80.345,29964740608.0,65
+FANG,"Diamondback Energy, Inc.",180.98,50523795456.0,65
+DLR,"Digital Realty Trust, Inc.",181.13,69733400576.0,50
+DG,Dollar General Corporation,137.44,30321571840.0,63
+DLTR,"Dollar Tree, Inc.",142.9,26812368896.0,60
+D,"Dominion Energy, Inc.",68.06,59863265280.0,55
+DPZ,Domino's Pizza Inc,328.6,10809644032.0,55
+DASH,"DoorDash, Inc.",178.26,77717135360.0,68
+DOV,Dover Corporation,212.43,28254822400.0,73
+DOW,Dow Inc.,32.54,23555119104.0,50
+DHI,"D.R. Horton, Inc.",147.48,40031322112.0,78
+DTE,DTE Energy Company,139.69,29078302720.0,53
+DUK,Duke Energy Corporation (Holdin,128.77,100403036160.0,63
+DD,"DuPont de Nemours, Inc.",155.61,20623355904.0,60
+ETN,"Eaton Corporation, PLC",360.62,140100861952.0,58
+EBAY,eBay Inc.,122.68,53856518144.0,65
+ECHO,EchoStar Corporation,102.2,29737965568.0,75
+ECL,Ecolab Inc.,307.86,86344802304.0,65
+EIX,Edison International,59.92,23056449536.0,58
+EW,Edwards Lifesciences Corporatio,105.81,60840747008.0,60
+ELV,"Elevance Health, Inc.",429.48,92791685120.0,63
+EME,"EMCOR Group, Inc.",666.74,29191213056.0,80
+EMR,Emerson Electric Company,167.06,91649114112.0,58
+ETR,Entergy Corporation,111.99,53511860224.0,58
+EOG,"EOG Resources, Inc.",153.77,79727321088.0,85
+EQT,EQT Corporation,52.69,32960198656.0,78
+EFX,"Equifax, Inc.",188.41,22047207424.0,58
+EQIX,"Equinix, Inc.",1068.06,105725468672.0,58
+ERIE,Erie Indemnity Company,272.18,14232255488.0,80
+ESS,"Essex Property Trust, Inc.",274.0,18906537984.0,50
+EL,"Estee Lauder Companies, Inc. (T",112.33,40700579840.0,40
+EG,"Everest Group, Ltd.",423.74,15696599040.0,78
+EVRG,"Evergy, Inc.",88.34,20715433984.0,63
+P,"Everpure, Inc.",106.5,35488702464.0,68
+ES,Eversource Energy (D/B/A),70.54,26570637312.0,55
+EXC,Exelon Corporation,45.61,47201640448.0,55
+EXE,Expand Energy Corporation,88.63,20469749760.0,78
+EXPE,"Expedia Group, Inc.",259.79,30804418560.0,70
+EXPD,Expeditors International of Was,194.59,25123645440.0,80
+EXR,Extra Space Storage Inc,159.21,34732109824.0,50
+XOM,ExxonMobil Holdings Corporation,166.71,680047214592.0,73
+FFIV,"F5, Inc.",320.01,18180087808.0,68
+FDS,FactSet Research Systems Inc.,334.88,11811174400.0,70
+FICO,Fair Isaac Corporation,728.85,15583489024.0,55
+FAST,Fastenal Company,55.49,63663763456.0,75
+FRT,Federal Realty Investment Trust,113.1,9788574720.0,63
+FDX,FedEx Corporation,322.63,75559739392.0,63
+FDXF,"FedEx Freight Holding Company, ",132.64,19832500224.0,65
+FERG,Ferguson Enterprises Inc.,264.5,51220058112.0,50
+FIS,Fidelity National Information S,30.21,15572355072.0,75
+FITB,Fifth Third Bancorp,54.4,49158332416.0,55
+FSLR,"First Solar, Inc.",178.11,19143469056.0,78
+FE,FirstEnergy Corp.,46.53,26935904256.0,53
+FISV,"Fiserv, Inc.",63.9,33997850624.0,50
+FLEX,Flex Ltd.,78.97,29176320000.0,58
+F,Ford Motor Company,12.25,48916914176.0,40
+FTNT,"Fortinet, Inc.",128.1,94116323328.0,75
+FTV,Fortive Corporation,67.89,20207081472.0,58
+FOXA,Fox Corporation,67.98,38497173504.0,68
+FOX,Fox Corporation,60.63,25573820416.0,68
+BEN,"Franklin Templeton, Inc.",36.3,18603749376.0,73
+FCX,"Freeport-McMoRan, Inc.",62.12,89138225152.0,68
+GRMN,Garmin Ltd.,293.93,56638926848.0,75
+IT,"Gartner, Inc.",193.0,12174700544.0,75
+GE,GE Aerospace,342.75,355624550400.0,65
+GEHC,GE HealthCare Technologies Inc.,82.6,37346582528.0,70
+GEV,GE Vernova Inc.,808.24,213922594816.0,80
+GEN,Gen Digital Inc.,30.635,18175012864.0,60
+GNRC,Generac Holdlings Inc.,194.0,11443862528.0,68
+GD,General Dynamics Corporation,367.22,99231555584.0,73
+GIS,"General Mills, Inc.",34.21,18291646464.0,50
+GM,General Motors Company,88.9,74991550464.0,45
+GPC,Genuine Parts Company,123.75,17060755456.0,50
+GILD,"Gilead Sciences, Inc.",169.73,210522652672.0,40
+GPN,Global Payments Inc.,100.23,26524448768.0,50
+GL,Globe Life Inc.,161.8,12206149632.0,68
+GDDY,GoDaddy Inc.,113.54,13769530368.0,55
+GS,"Goldman Sachs Group, Inc. (The)",926.81,267324063744.0,58
+HAL,Halliburton Company,32.93,27237269504.0,68
+HIG,"The Hartford Insurance Group, I",137.18,36683767808.0,85
+HAS,"Hasbro, Inc.",124.02,17345757184.0,60
+HCA,"HCA Healthcare, Inc.",506.04,105707962368.0,55
+DOC,"Healthpeak Properties, Inc.",20.38,14796261376.0,50
+HSIC,"Henry Schein, Inc.",88.42,9773817856.0,55
+HSY,The Hershey Company,176.43,35458969600.0,70
+HPE,Hewlett Packard Enterprise Comp,50.25,66705108992.0,58
+HLT,Hilton Worldwide Holdings Inc.,376.91,83864117248.0,50
+HD,"Home Depot, Inc. (The)",351.31,350498324480.0,60
+HONA,Honeywell Aerospace Inc.,169.53,53746409472.0,50
+HON,Honeywell International Inc.,227.64,72148221952.0,75
+HRL,Hormel Foods Corporation,21.95,12080199680.0,60
+HST,"Host Hotels & Resorts, Inc.",25.78,17905596416.0,63
+HWM,Howmet Aerospace Inc.,224.0,89075949568.0,65
+HPQ,HP Inc.,28.96,26115866624.0,60
+HUBB,Hubbell Inc,443.48,23431282688.0,65
+HUM,Humana Inc.,446.31,53603278848.0,50
+HBAN,Huntington Bancshares Incorpora,15.88,32004349952.0,60
+HII,"Huntington Ingalls Industries, ",313.96,12371926016.0,63
+IBM,International Business Machines,248.22,234597892096.0,70
+IEX,IDEX Corporation,239.96,17625735168.0,68
+IDXX,"IDEXX Laboratories, Inc.",702.59,55354441728.0,65
+ITW,Illinois Tool Works Inc.,288.72,82054225920.0,55
+ILMN,"Illumina, Inc.",212.93,32195014656.0,65
+INCY,Incyte Corporation,122.27,24922599424.0,60
+IR,Ingersoll Rand Inc.,85.08,32672403456.0,73
+PODD,Insulet Corporation,150.03,10407737344.0,70
+INTC,Intel Corporation,62.5,332187500544.0,60
+IBKR,"Interactive Brokers Group, Inc.",82.49,140549849088.0,65
+ICE,Intercontinental Exchange Inc.,180.59,100924243968.0,63
+IFF,International Flavors & Fragran,82.65,20694841344.0,50
+IP,International Paper Company,34.66,18356023296.0,50
+INTU,Intuit Inc.,342.64,91565744128.0,80
+ISRG,"Intuitive Surgical, Inc.",449.53,155826749440.0,58
+IVZ,Invesco Ltd,28.63,12583712768.0,60
+INVH,Invitation Homes Inc.,26.88,15546077184.0,55
+IQV,"IQVIA Holdings, Inc.",274.53,45242544128.0,55
+IRM,Iron Mountain Incorporated (Del,112.43,33485453312.0,50
+JBHT,"J.B. Hunt Transport Services, I",227.66,21222238208.0,68
+JBL,Jabil Inc.,258.89,26659061760.0,55
+JKHY,"Jack Henry & Associates, Inc.",175.9,12245931008.0,80
+J,Jacobs Solutions Inc.,157.47,18430068736.0,50
+JNJ,Johnson & Johnson,280.41,675033907200.0,65
+JCI,Johnson Controls International ,144.61,87596269568.0,65
+JPM,JP Morgan Chase & Co.,343.39,911909847040.0,68
+KDP,Keurig Dr Pepper Inc.,38.25,52056272896.0,50
+KEY,KeyCorp,21.44,22640207872.0,68
+KEYS,Keysight Technologies Inc.,305.64,52033609728.0,75
+KMB,Kimberly-Clark Corporation,108.86,66804695040.0,60
+KIM,Kimco Realty Corporation (HC),25.62,17024199680.0,55
+KMI,"Kinder Morgan, Inc.",31.59,70373523456.0,63
+KKR,KKR & Co. Inc.,100.05,91855355904.0,50
+KLAC,KLA Corporation,161.01,209789976576.0,65
+KHC,The Kraft Heinz Company,24.27,28731529216.0,60
+KR,Kroger Company (The),69.49,41040007168.0,48
+LHX,"L3Harris Technologies, Inc.",276.59,51501260800.0,58
+LH,Labcorp Holdings Inc.,372.23,30225076224.0,58
+LRCX,Lam Research Corporation,235.88,294654443520.0,75
+LVS,Las Vegas Sands Corp.,40.23,26057017344.0,70
+LDOS,"Leidos Holdings, Inc.",133.89,16333870080.0,75
+LEN,Lennar Corporation,86.33,20537927680.0,65
+LII,"Lennox International, Inc.",350.73,11997923328.0,70
+LLY,Eli Lilly and Company,1437.29,1280258998272.0,65
+LIN,Linde plc,526.55,241730551808.0,58
+LYV,"Live Nation Entertainment, Inc.",180.16,42463088640.0,55
+LMT,Lockheed Martin Corporation,610.05,140924370944.0,60
+L,Loews Corporation,111.51,22550136832.0,65
+LOW,"Lowe's Companies, Inc.",231.6,129940111360.0,55
+LULU,lululemon athletica inc.,107.45,12445501440.0,85
+LITE,Lumentum Holdings Inc.,648.06,58769264640.0,60
+LYB,LyondellBasell Industries NV,62.58,20228515840.0,63
+MTB,M&T Bank Corporation,220.19,31582828544.0,68
+MPC,Marathon Petroleum Corporation,402.84,109686185984.0,75
+MAR,Marriott International,429.18,110515732480.0,50
+MRSH,Marsh,207.52,98678734848.0,70
+MLM,"Martin Marietta Materials, Inc.",524.13,37275332608.0,50
+MRVL,"Marvell Technology, Inc.",168.8,151880482816.0,68
+MAS,Masco Corporation,84.91,16368025600.0,55
+MA,Mastercard Incorporated,660.73,575612190720.0,55
+MKC,"McCormick & Company, Incorporat",46.94,12629885952.0,75
+MCD,McDonald's Corporation,274.8,193949646848.0,55
+MCK,McKesson Corporation,1079.79,124668952576.0,50
+MDT,Medtronic plc.,101.61,129973207040.0,63
+MRK,"Merck & Company, Inc.",147.18,362834853888.0,50
+META,"Meta Platforms, Inc.",628.77,1607659945984.0,80
+MET,"MetLife, Inc.",102.94,64691830784.0,58
+MTD,"Mettler-Toledo International, I",1749.01,34788515840.0,40
+MGM,MGM Resorts International,33.47,8468263424.0,65
+MCHP,Microchip Technology Incorporat,62.13,33812613120.0,58
+MU,"Micron Technology, Inc.",811.3,917923627008.0,85
+MSFT,Microsoft Corporation,521.125,3869975511040.0,75
+MAA,Mid-America Apartment Communiti,118.19,14055534592.0,50
+MRNA,"Moderna, Inc.",248.69,100625186816.0,50
+MDLZ,"Mondelez International, Inc.",66.7,84431413248.0,63
+MPWR,"Monolithic Power Systems, Inc.",1478.69,72112750592.0,75
+MNST,Monster Beverage Corporation,45.4,88871043072.0,75
+MCO,Moody's Corporation,514.93,88786329600.0,55
+MS,Morgan Stanley,190.61,297931800576.0,53
+MOS,Mosaic Company (The),22.8,7248202752.0,50
+MSI,"Motorola Solutions, Inc.",535.22,88490024960.0,55
+MSCI,MSCI Inc.,661.53,47299395584.0,50
+NDAQ,"Nasdaq, Inc.",109.68,60868313088.0,58
+NTAP,"NetApp, Inc.",183.12,35968245760.0,65
+NFLX,"Netflix, Inc.",64.54,265022291968.0,70
+NEM,Newmont Corporation,118.47,123113218048.0,85
+NWSA,News Corporation,26.83,14400906240.0,65
+NWS,News Corporation,29.93,16064821248.0,60
+NEE,"NextEra Energy, Inc.",85.99,180347355136.0,63
+NKE,"Nike, Inc.",38.32,56917032960.0,70
+NI,NiSource Inc,45.55,21848905728.0,55
+NDSN,Nordson Corporation,329.23,18337902592.0,58
+NSC,Norfolk Southern Corporation,330.59,74256031744.0,58
+NTRS,Northern Trust Corporation,178.71,32367564800.0,68
+NOC,Northrop Grumman Corporation,550.96,78271856640.0,70
+NCLH,Norwegian Cruise Line Holdings ,18.82,8643563520.0,65
+NRG,"NRG Energy, Inc.",97.5,20477075456.0,60
+NUE,Nucor Corporation,261.39,58798161920.0,73
+NVDA,NVIDIA Corporation,173.73,4195058188288.0,80
+NVR,"NVR, Inc.",5895.4,15597978624.0,80
+NXPI,NXP Semiconductors N.V.,269.51,67930804224.0,70
+ORLY,"O'Reilly Automotive, Inc.",90.54,72617492480.0,50
+OXY,Occidental Petroleum Corporatio,57.24,57233977344.0,78
+OKTA,"Okta, Inc.",182.25,31861114880.0,60
+ODFL,"Old Dominion Freight Line, Inc.",170.5,35129802752.0,75
+OMC,Omnicom Group Inc.,88.88,24383866880.0,50
+ON,ON Semiconductor Corporation,73.62,28659124224.0,50
+OKE,"ONEOK, Inc.",88.17,55586811904.0,68
+ORCL,Oracle Corporation,128.38,400251387904.0,60
+OTIS,Otis Worldwide Corporation,77.5,29505064960.0,55
+PCAR,PACCAR Inc.,108.13,56931020800.0,63
+PKG,Packaging Corporation of Americ,253.01,22541840384.0,58
+PLTR,Palantir Technologies Inc.,172.4,415397380096.0,75
+PANW,"Palo Alto Networks, Inc.",334.47,273744674816.0,60
+PH,Parker-Hannifin Corporation,972.9,122679574528.0,65
+PAYX,"Paychex, Inc.",115.37,41069469696.0,70
+PYPL,"PayPal Holdings, Inc.",59.48,49407553536.0,75
+PNR,Pentair plc.,69.33,11068859392.0,73
+PEP,"Pepsico, Inc.",143.94,196152967168.0,60
+PFE,"Pfizer, Inc.",29.45,167860699136.0,50
+PCG,Pacific Gas & Electric Co.,13.1,28851830784.0,60
+PM,Philip Morris International Inc,196.35,306042044416.0,50
+PSX,Phillips 66,258.68,100903911424.0,75
+PNW,Pinnacle West Capital Corporati,107.91,13078822912.0,45
+PNC,"PNC Financial Services Group, I",232.0,92052496384.0,68
+PPG,"PPG Industries, Inc.",124.97,27605872640.0,63
+PPL,PPL Corporation,35.38,26632218624.0,55
+PFG,Principal Financial Group Inc,114.69,24357457920.0,78
+PG,Procter & Gamble Company (The),167.67,388622680064.0,65
+PGR,Progressive Corporation (The),233.53,135298449408.0,85
+PLD,"Prologis, Inc.",130.03,126424391680.0,50
+PRU,"Prudential Financial, Inc.",123.04,42202722304.0,68
+PTC,PTC Inc.,196.14,21307123712.0,70
+PEG,Public Service Enterprise Group,74.29,37034713088.0,63
+PSA,Public Storage,335.73,62728953856.0,58
+PHM,"PulteGroup, Inc.",129.5,23839234048.0,78
+Q,"Qnity Electronics, Inc.",126.57,26458617856.0,50
+QCOM,QUALCOMM Incorporated,176.57,188929900544.0,75
+PWR,"Quanta Services, Inc.",607.94,91602665472.0,58
+DGX,Quest Diagnostics Incorporated,258.69,28455901184.0,58
+RL,Ralph Lauren Corporation,394.05,23289026560.0,70
+RJF,"Raymond James Financial, Inc.",167.13,32105674752.0,78
+RDDT,"Reddit, Inc.",105.66,20402284544.0,80
+O,Realty Income Corporation,59.57,56810647552.0,50
+REG,Regency Centers Corporation,76.18,14242861056.0,50
+REGN,"Regeneron Pharmaceuticals, Inc.",959.41,99248906240.0,73
+RF,Regions Financial Corporation,28.64,24310988800.0,68
+RSG,"Republic Services, Inc.",249.34,75958845440.0,58
+RMD,ResMed Inc.,238.53,33550931968.0,80
+RVTY,"Revvity, Inc.",158.25,17666834432.0,60
+HOOD,"Robinhood Markets, Inc.",84.58,76163555328.0,55
+ROK,"Rockwell Automation, Inc.",406.19,45198368768.0,65
+ROL,"Rollins, Inc.",38.47,18390403072.0,65
+ROP,"Roper Technologies, Inc.",477.7,47309705216.0,63
+ROST,"Ross Stores, Inc.",241.27,77394853888.0,65
+RCL,Royal Caribbean Cruises Ltd.,335.18,89650905088.0,70
+RTX,RTX Corporation,201.29,271628877824.0,58
+SPGI,S&P Global Inc.,475.11,137734389760.0,58
+CRM,"Salesforce, Inc.",218.01,179422232576.0,63
+SNDK,Sandisk Corporation,977.69,139114889216.0,85
+SBAC,SBA Communications Corporation,190.03,19844450304.0,55
+SLB,SLB Limited,50.96,75218468864.0,73
+STX,Seagate Technology Holdings PLC,551.72,126653448192.0,65
+SRE,DBA Sempra,78.22,51165237248.0,55
+NOW,"ServiceNow, Inc.",102.76,106656350208.0,58
+SHW,Sherwin-Williams Company (The),355.76,85947375616.0,55
+SPG,"Simon Property Group, Inc.",234.75,88860901376.0,60
+SKYD,Skydance Corporation,7.9,39849357312.0,50
+SWKS,"Skyworks Solutions, Inc.",87.64,20582660096.0,60
+SJM,The J.M. Smucker Company,133.07,14214962176.0,50
+SW,Smurfit WestRock plc,44.03,23094921216.0,50
+SNA,Snap-On Incorporated,374.75,19330066432.0,73
+SOLV,Solventum Corporation,88.62,15061580800.0,50
+SO,Southern Company (The),93.84,109254246400.0,63
+LUV,Southwest Airlines Company,46.48,22756718592.0,63
+SWK,"Stanley Black & Decker, Inc.",115.62,17192257536.0,55
+SBUX,Starbucks Corporation,109.89,125285580800.0,50
+STT,State Street Corporation,174.17,47387832320.0,68
+STLD,"Steel Dynamics, Inc.",238.99,33988558848.0,80
+STE,STERIS plc (Ireland),256.27,24885616640.0,68
+SYK,Stryker Corporation,318.79,121360490496.0,58
+SMCI,"Super Micro Computer, Inc.",30.43,20060289024.0,75
+SYF,Synchrony Financial,72.02,22427377664.0,68
+SNPS,"Synopsys, Inc.",462.12,88559124480.0,60
+SYY,Sysco Corporation,76.94,37875314688.0,60
+TMUS,"T-Mobile US, Inc.",172.16,182364372992.0,53
+TROW,"T. Rowe Price Group, Inc.",110.69,23613048832.0,78
+TTWO,"Take-Two Interactive Software, ",231.31,43304349696.0,50
+TPR,"Tapestry, Inc.",133.34,26203508736.0,60
+TRGP,"Targa Resources, Inc.",291.78,62602571776.0,55
+TGT,Target Corporation,162.7,73914081280.0,70
+TEL,TE Connectivity plc,219.41,62903775232.0,80
+TDY,Teledyne Technologies Incorpora,651.12,30183104512.0,60
+TER,"Teradyne, Inc.",265.78,41494835200.0,75
+TSLA,"Tesla, Inc.",390.84,1544895987712.0,60
+TXN,Texas Instruments Incorporated,309.81,283095171072.0,65
+TPL,Texas Pacific Land Corporation,281.42,19410855936.0,75
+TXT,Textron Inc.,85.94,14558234624.0,63
+TMO,Thermo Fisher Scientific Inc,717.71,265922953216.0,58
+TJX,"TJX Companies, Inc. (The)",136.44,150080454656.0,65
+TKO,"TKO Group Holdings, Inc.",199.5,37625470976.0,50
+TSCO,Tractor Supply Company,36.74,19052398592.0,60
+TT,Trane Technologies plc,424.84,92995493888.0,75
+TDG,Transdigm Group Incorporated,1245.0,67964346368.0,50
+TRV,"The Travelers Companies, Inc.",399.46,81867866112.0,85
+TRMB,Trimble Inc.,56.48,12947645440.0,60
 TFC,Truist Financial Corporation,50.26,60236025856.0,60
-TWLO,Twilio Inc.,214.21,33145577472.0,68
-TYL,"Tyler Technologies, Inc.",421.66,16765000704.0,58
-TSN,"Tyson Foods, Inc.",60.29,21210112000.0,60
-USB,U.S. Bancorp,60.75,94661181440.0,68
-UBER,"Uber Technologies, Inc.",70.05,143034974208.0,58
-UDR,"UDR, Inc.",36.66,13307167744.0,63
-ULTA,"Ulta Beauty, Inc.",664.41,28408489984.0,70
-UNP,Union Pacific Corporation,300.62,178643566592.0,70
-UAL,"United Airlines Holdings, Inc.",120.56,39169265664.0,75
-UPS,"United Parcel Service, Inc.",111.05,94555676672.0,60
-URI,"United Rentals, Inc.",1104.94,68414111744.0,70
-UNH,UnitedHealth Group Incorporated,405.12,362996662272.0,63
-UHS,"Universal Health Services, Inc.",195.41,11265800192.0,68
-VLO,Valero Energy Corporation,350.71,97807548416.0,85
-VEEV,Veeva Systems Inc.,305.55,49471246336.0,68
-VTR,"Ventas, Inc.",90.34,47773597696.0,50
-VLTO,Veralto Corp,118.21,28741793792.0,65
-VRSN,"VeriSign, Inc.",311.115,27907014656.0,50
-VRSK,"Verisk Analytics, Inc.",204.02,26172995584.0,50
-VZ,Verizon Communications Inc.,46.31,191936348160.0,68
-VRTX,Vertex Pharmaceuticals Incorpor,547.89,138910760960.0,75
-VRT,"Vertiv Holdings, LLC",194.22,74786430976.0,65
-VTRS,Viatris Inc.,20.85,23903582208.0,50
-VICI,VICI Properties Inc.,24.99,27516127232.0,60
-V,Visa Inc.,423.0,789233401856.0,65
-VST,Vistra Corp.,131.18,44521791488.0,60
-VMRK,Vivmark Residential,65.75,50943004672.0,60
-VMC,Vulcan Materials Company (Holdi,287.31,36874637312.0,58
-VYLR,Vylor Inc.,72.53,48399478784.0,60
-WRB,W.R. Berkley Corporation,76.83,28543557632.0,73
-GWW,"W.W. Grainger, Inc.",1472.91,68953030656.0,65
-WAB,Westinghouse Air Brake Technolo,303.49,50926342144.0,58
-WMT,Walmart Inc.,125.55,996081860608.0,65
-DIS,Walt Disney Company (The),119.21,205838336000.0,65
-WM,"Waste Management, Inc.",237.38,94390575104.0,55
-WAT,Waters Corporation,475.52,46689337344.0,60
-WEC,"WEC Energy Group, Inc.",117.01,38495391744.0,63
-WFC,Wells Fargo & Company,85.76,257438695424.0,68
-WELL,Welltower Inc.,247.66,181685813248.0,60
-WST,"West Pharmaceutical Services, I",412.55,28738660352.0,75
-WDC,Western Digital Corporation,289.2,108254289920.0,85
-WY,Weyerhaeuser Company,20.63,14860696576.0,50
-WSM,"Williams-Sonoma, Inc.",261.55,30802219008.0,65
-WMB,"Williams Companies, Inc. (The)",67.46,84338655232.0,58
-WTW,Willis Towers Watson Public Lim,332.87,30696015872.0,70
-WDAY,"Workday, Inc.",188.89,45522489344.0,58
-WYNN,"Wynn Resorts, Limited",87.3,8989621248.0,55
-XEL,Xcel Energy Inc.,80.12,51426979840.0,63
-XYL,Xylem Inc.,96.84,22208761856.0,65
+TWLO,Twilio Inc.,219.48,33961025536.0,68
+TYL,"Tyler Technologies, Inc.",425.52,16918472704.0,58
+TSN,"Tyson Foods, Inc.",59.87,21062354944.0,60
+USB,U.S. Bancorp,60.7,94583275520.0,68
+UBER,"Uber Technologies, Inc.",70.68,144321363968.0,58
+UDR,"UDR, Inc.",36.56,13270870016.0,63
+ULTA,"Ulta Beauty, Inc.",659.08,28180594688.0,70
+UNP,Union Pacific Corporation,302.11,179528990720.0,70
+UAL,"United Airlines Holdings, Inc.",118.37,38457745408.0,75
+UPS,"United Parcel Service, Inc.",112.45,95747727360.0,60
+URI,"United Rentals, Inc.",1150.8,71253614592.0,65
+UNH,UnitedHealth Group Incorporated,402.94,361043361792.0,63
+UHS,"Universal Health Services, Inc.",196.77,11344206848.0,68
+VLO,Valero Energy Corporation,363.71,101433049088.0,85
+VEEV,Veeva Systems Inc.,304.77,49344958464.0,68
+VTR,"Ventas, Inc.",90.42,47815905280.0,50
+VLTO,Veralto Corp,118.77,28877953024.0,65
+VRSN,"VeriSign, Inc.",314.09,28173873152.0,50
+VRSK,"Verisk Analytics, Inc.",205.98,26424434688.0,50
+VZ,Verizon Communications Inc.,46.6,193138278400.0,68
+VRTX,Vertex Pharmaceuticals Incorpor,547.03,138692722688.0,75
+VRT,"Vertiv Holdings, LLC",206.51,79518826496.0,65
+VTRS,Viatris Inc.,21.06,24144336896.0,50
+VICI,VICI Properties Inc.,24.94,27461074944.0,60
+V,Visa Inc.,425.55,793991184384.0,65
+VST,Vistra Corp.,133.45,45292220416.0,60
+VMRK,Vivmark Residential,64.63,50075226112.0,60
+VMC,Vulcan Materials Company (Holdi,284.37,36497301504.0,58
+VYLR,Vylor Inc.,72.1,48112537600.0,60
+WRB,W.R. Berkley Corporation,76.67,28484114432.0,73
+GWW,"W.W. Grainger, Inc.",1486.53,69590638592.0,65
+WAB,Westinghouse Air Brake Technolo,304.18,51042127872.0,58
+WMT,Walmart Inc.,125.67,1000091746304.0,65
+DIS,Walt Disney Company (The),119.65,206598078464.0,65
+WM,"Waste Management, Inc.",240.29,95547686912.0,55
+WAT,Waters Corporation,470.9,92547735552.0,60
+WEC,"WEC Energy Group, Inc.",117.47,38646726656.0,63
+WFC,Wells Fargo & Company,85.8,257558773760.0,68
+WELL,Welltower Inc.,247.35,181458403328.0,60
+WST,"West Pharmaceutical Services, I",412.86,28760256512.0,75
+WDC,Western Digital Corporation,313.31,117279219712.0,85
+WY,Weyerhaeuser Company,20.65,14875103232.0,50
+WSM,"Williams-Sonoma, Inc.",262.09,30868744192.0,65
+WMB,"Williams Companies, Inc. (The)",68.92,86163955712.0,58
+WTW,Willis Towers Watson Public Lim,334.18,30816819200.0,70
+WDAY,"Workday, Inc.",191.16,46069559296.0,58
+WYNN,"Wynn Resorts, Limited",85.38,8791910400.0,55
+XEL,Xcel Energy Inc.,81.1,52056014848.0,63
+XYL,Xylem Inc.,95.11,21812013056.0,65
 YUM,"Yum! Brands, Inc.",160.21,42977722368.0,60
-ZBRA,Zebra Technologies Corporation,321.38,15132966912.0,58
-ZBH,"Zimmer Biomet Holdings, Inc.",107.32,20310726656.0,50
-ZTS,Zoetis Inc.,82.46,33504829440.0,65
+ZBRA,Zebra Technologies Corporation,327.44,15418316800.0,58
+ZBH,"Zimmer Biomet Holdings, Inc.",107.47,20339116032.0,50
+ZTS,Zoetis Inc.,82.57,33549524992.0,65
